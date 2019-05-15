@@ -1,0 +1,885 @@
+stn_id,stn_name,stn_lat,stn_lon,open_status,opening_month,opening_month_num,opening_year,closing_month,closing_month_num,closing_year,duration_days,borough,puma_id,puma_name,cd_name,ct2010
+444,Broadway & W 24 St,40.7423543,-73.9891508,0,June,6,2013,October,10,2017,1611,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061005800
+475,E 16 St & Irving Pl,40.7352428,-73.9875856,0,June,6,2013,February,2,2017,1369,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061005e3
+2008,Little West St & 1 Pl,40.7056925,-74.0167769,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061031704
+285,Broadway & E 14 St,40.7345457,-73.9907414,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061006100
+509,9 Ave & W 22 St,40.7454973,-74.0019714,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061008900
+265,Stanton St & Chrystie St,40.7222935,-73.9914754,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061003601
+404,9 Ave & W 14 St,40.7405826,-74.0055087,0,June,6,2013,August,8,2015,819,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061007900
+423,W 54 St & 9 Ave,40.7658494,-73.9869051,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061013300
+241,DeKalb Ave & S Portland Ave,40.6898104,-73.9749312,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047003100
+527,E 33 St & 2 Ave,40.744023,-73.976056,0,June,6,2013,June,6,2018,1854,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061007e3
+309,Murray St & West St,40.7149787,-74.013012,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061002100
+494,W 26 St & 8 Ave,40.7473483,-73.9972355,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009700
+380,W 4 St & 7 Ave S,40.7340114,-74.0029388,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061007300
+305,E 58 St & 3 Ave,40.7609576,-73.9672447,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061011203
+480,W 53 St & 10 Ave,40.7666967,-73.9906173,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061013500
+453,W 22 St & 8 Ave,40.7447515,-73.9991536,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009300
+223,W 13 St & 7 Ave,40.7378151,-73.9999466,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061007100
+476,E 31 St & 3 Ave,40.7439431,-73.9796607,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061007200
+312,Allen St & Stanton St,40.722055,-73.989111,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061003601
+482,W 15 St & 7 Ave,40.7393554,-73.9993178,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061008100
+439,E 4 St & 2 Ave,40.7262807,-73.9897804,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061003800
+531,Forsyth St & Broome St,40.718939,-73.9926629,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061001800
+358,Christopher St & Greenwich St,40.7329155,-74.0071138,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061006900
+83,Atlantic Ave & Fort Greene Pl,40.683826,-73.9763233,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047003500
+271,Ashland Pl & Hanson Pl,40.6852267,-73.9780015,0,June,6,2013,August,8,2015,819,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047003500
+445,E 10 St & Avenue A,40.7274079,-73.9814201,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061003200
+477,W 41 St & 8 Ave,40.7564055,-73.9900262,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061011300
+293,Lafayette St & E 8 St,40.7302066,-73.9910263,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061005700
+493,W 45 St & 6 Ave,40.7568001,-73.9829115,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061011900
+473,Rivington St & Chrystie St,40.7211006,-73.9919254,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061001800
+489,10 Ave & W 28 St,40.7506639,-74.001768,0,June,6,2013,July,7,2016,1154,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009700
+517,Pershing Square South,40.751581,-73.97791,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061008e3
+2004,6 Ave & Broome St,40.724399,-74.004704,0,June,6,2013,March,3,2017,1397,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061003700
+249,Harrison St & Hudson St,40.7187099,-74.0090009,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061003900
+79,Franklin St & W Broadway,40.7191155,-74.0066666,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061003300
+465,Broadway & W 41 St,40.7551356,-73.9865803,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061011300
+247,Perry St & Bleecker St,40.735354,-74.0048309,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061007300
+412,Forsyth St & Canal St,40.7158155,-73.9942237,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061001600
+521,8 Ave & W 31 St N,40.7509673,-73.9944421,0,June,6,2013,May,5,2016,1093,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061010300
+490,8 Ave & W 33 St,40.751551,-73.993934,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061010300
+369,Washington Pl & 6 Ave,40.7322412,-74.0002639,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061006500
+510,W 51 St & 6 Ave,40.7606597,-73.9804205,0,June,6,2013,August,8,2016,1185,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061013100
+389,Broadway & Berry St,40.7104455,-73.9652506,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047054900
+492,W 33 St & 7 Ave,40.7502,-73.9909309,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061010100
+3019,NYCBS Depot - DEL,40.716633,-73.981933,0,June,6,2013,June,6,2013,28,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061001200
+236,St Marks Pl & 2 Ave,40.7284186,-73.9871396,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061003800
+357,E 11 St & Broadway,40.7326179,-73.9915804,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061006100
+303,Mercer St & Spring St,40.7236274,-73.999496,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061004900
+470,W 20 St & 8 Ave,40.7434534,-74.0000403,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061008900
+354,Emerson Pl & Myrtle Ave,40.6936314,-73.9622356,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047019300
+300,Shevchenko Pl & E 7 St,40.728145,-73.990214,0,June,6,2013,August,8,2016,1185,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061003800
+233,Cadman Plaza W & Pierrepont St,40.694757,-73.9905274,0,June,6,2013,June,6,2016,1124,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047001100
+504,1 Ave & E 16 St,40.7322185,-73.9816556,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061004400
+143,Clinton St & Joralemon St,40.692395,-73.9933791,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047000700
+441,E 52 St & 2 Ave,40.756014,-73.967416,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061009800
+244,Willoughby Ave & Hall St,40.6919604,-73.9653685,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047019300
+2022,E 60 St & York Ave,40.759107,-73.959223,1,June,6,2013,NA,NA,NA,1976,Manhattan,3805,Upper East Side,Upper East Side,36061010602
+281,Grand Army Plaza & Central Park S,40.7643971,-73.9737147,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061011201
+508,W 46 St & 11 Ave,40.7634138,-73.9966744,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061012900
+355,Bayard St & Baxter St,40.7160212,-73.9997437,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061002900
+420,Clermont Ave & Lafayette Ave,40.6876448,-73.969689,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047019700
+481,S 3 St & Bedford Ave,40.7126049,-73.962644,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047055100
+528,2 Ave & E 31 St,40.742909,-73.9770606,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061007e3
+311,Norfolk St & Broome St,40.7172274,-73.9880208,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061001800
+328,Watts St & Greenwich St,40.7240555,-74.0096597,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061003900
+270,Adelphi St & Myrtle Ave,40.6930826,-73.9717891,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047018300
+146,Hudson St & Reade St,40.7162501,-74.0091059,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061003300
+466,W 25 St & 6 Ave,40.7439541,-73.9914487,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061005800
+488,W 39 St & 9 Ave,40.7564582,-73.9937222,0,June,6,2013,June,6,2017,1489,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061011500
+447,8 Ave & W 52 St,40.7637074,-73.9851615,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061013300
+362,Broadway & W 37 St,40.7517263,-73.9875352,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061010900
+514,12 Ave & W 40 St,40.760875,-74.0027767,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061011700
+259,South St & Whitehall St,40.7012213,-74.0123422,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061000900
+294,Washington Square E,40.7304939,-73.9957214,0,June,6,2013,January,1,2016,972,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061005900
+251,Mott St & Prince St,40.7231796,-73.9948001,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061004300
+238,Bank St & Washington St,40.7361967,-74.0085921,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061007900
+376,John St & William St,40.7086214,-74.0072216,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061001502
+461,E 20 St & 2 Ave,40.7358768,-73.9820503,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061006400
+405,Washington St & Gansevoort St,40.739323,-74.008119,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061007900
+459,W 20 St & 11 Ave,40.746745,-74.007756,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009900
+428,E 3 St & 1 Ave,40.7246772,-73.9878341,0,June,6,2013,January,1,2018,1703,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061003602
+252,MacDougal St & Washington Sq,40.732264,-73.9985221,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061006300
+384,Fulton St & Washington Ave,40.683048,-73.964915,0,June,6,2013,September,9,2017,1581,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047019900
+2009,Catherine St & Monroe St,40.7111744,-73.9968262,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061002500
+239,Willoughby St & Fleet St,40.6919657,-73.9813018,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047003100
+278,Concord St & Bridge St,40.6976656,-73.9847644,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047001500
+479,9 Ave & W 45 St,40.7601925,-73.9912551,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061012100
+168,W 18 St & 6 Ave,40.739713,-73.9945641,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061005400
+151,Cleveland Pl & Spring St,40.7221038,-73.997249,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061004500
+393,E 5 St & Avenue C,40.7229921,-73.9799547,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061002601
+518,E 39 St & 2 Ave,40.7478037,-73.9734419,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061007800
+324,DeKalb Ave & Hudson Ave,40.689888,-73.981013,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047003300
+516,E 47 St & 1 Ave,40.7520686,-73.9678438,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061009e3
+442,W 27 St & 7 Ave,40.746647,-73.993915,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009500
+478,11 Ave & W 41 St,40.760301,-73.9988422,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061011700
+326,E 11 St & 1 Ave,40.7295384,-73.9842673,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061004e3
+82,St James Pl & Pearl St,40.7111742,-74.0001655,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061002500
+348,W Broadway & Spring St,40.7249099,-74.001547,0,June,6,2013,August,8,2017,1550,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061004900
+460,S 4 St & Wythe Ave,40.7128589,-73.9659029,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047054900
+350,Clinton St & Grand St,40.7155951,-73.9870295,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061001401
+150,E 2 St & Avenue C,40.7208736,-73.980858,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061002202
+308,St James Pl & Oliver St,40.7130792,-73.9985119,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061002700
+323,Lawrence St & Willoughby St,40.6923618,-73.9863175,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047001100
+336,Sullivan St & Washington Sq,40.7304775,-73.9990607,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061006500
+469,Broadway & W 53 St,40.7634406,-73.9826813,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061013100
+523,W 38 St & 8 Ave,40.7546659,-73.9913815,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061011300
+349,Rivington St & Ridge St,40.7185021,-73.9832986,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061001200
+539,Metropolitan Ave & Bedford Ave,40.7153483,-73.9602412,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047055300
+398,Atlantic Ave & Furman St,40.6916518,-73.9999786,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047004700
+382,University Pl & E 14 St,40.734927,-73.9920051,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061006100
+167,E 39 St & 3 Ave,40.7489006,-73.9760488,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061008e3
+410,Suffolk St & Stanton St,40.7206644,-73.9851798,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061003001
+402,Broadway & E 22 St,40.7403432,-73.9895511,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061005600
+406,Hicks St & Montague St,40.6951285,-73.9959507,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047000301
+386,Centre St & Worth St,40.7149481,-74.0023448,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061003100
+298,3 Ave & Schermerhorn St,40.6868321,-73.9796772,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047003700
+462,W 22 St & 10 Ave,40.7469196,-74.0045189,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061008900
+401,Allen St & Rivington St,40.7201958,-73.9899783,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061001800
+432,E 7 St & Avenue A,40.7262179,-73.9837986,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061003200
+416,Cumberland St & Lafayette Ave,40.6875341,-73.9726518,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047018100
+485,W 37 St & 5 Ave,40.7503801,-73.9833899,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061008400
+377,6 Ave & Canal St,40.722438,-74.0056644,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061003700
+397,Fulton St & Clermont Ave,40.6841575,-73.9692227,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047017900
+495,W 47 St & 10 Ave,40.7626988,-73.9930122,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061012700
+334,W 20 St & 7 Ave,40.7423879,-73.9972624,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061008700
+486,Broadway & W 29 St,40.7462009,-73.9885572,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061007600
+347,Greenwich St & W Houston St,40.728846,-74.008591,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061003700
+498,Broadway & W 32 St,40.7485486,-73.9880842,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061007600
+280,E 10 St & 5 Ave,40.7333197,-73.9951013,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061006100
+396,Lefferts Pl & Franklin Ave,40.6803424,-73.9557689,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047022700
+295,Pike St & E Broadway,40.7140667,-73.9929391,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061000800
+290,2 Ave & E 58 St,40.7602026,-73.9647847,0,June,6,2013,December,12,2015,941,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061010800
+438,St Marks Pl & 1 Ave,40.7277913,-73.9856495,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061003800
+446,W 24 St & 7 Ave,40.7448763,-73.9952989,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009100
+116,W 17 St & 8 Ave,40.741776,-74.0014975,0,June,6,2013,November,11,2017,1642,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061008300
+458,11 Ave & W 27 St,40.751396,-74.005226,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009900
+212,W 16 St & The High Line,40.7433494,-74.0068175,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061008300
+2012,E 27 St & 1 Ave,40.739445,-73.976806,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061006600
+515,W 43 St & 10 Ave,40.7600944,-73.9946184,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061012100
+540,Lexington Ave & E 29 St,40.7431156,-73.9821535,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061007200
+512,W 29 St & 9 Ave,40.7500727,-73.9983928,0,June,6,2013,February,2,2016,1003,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009700
+275,Washington Ave & Greene Ave,40.6865007,-73.9656331,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047019900
+229,Great Jones St,40.7274342,-73.9937903,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061005502
+375,Mercer St & Bleecker St S,40.7267945,-73.9969509,0,June,6,2013,June,6,2016,1124,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061005501
+282,Kent Ave & S 11 St,40.7076449,-73.9684153,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047054700
+503,E 20 St & Park Ave,40.7382743,-73.987519699999993,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061005e3
+403,E 2 St & 2 Ave,40.7250288,-73.9906966,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061003602
+463,9 Ave & W 16 St,40.7420654,-74.0044317,0,June,6,2013,May,5,2016,1093,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061008300
+268,Howard St & Centre St,40.7191054,-73.9997334,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061004500
+128,MacDougal St & Prince St,40.7271026,-74.0029709,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061003700
+313,Washington Ave & Park Ave,40.6961023,-73.9675104,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047054300
+511,E 14 St & Avenue B,40.7293869,-73.9777243,0,June,6,2013,July,7,2017,1519,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061004400
+391,Clark St & Henry St,40.6976013,-73.9934456,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047000501
+173,Broadway & W 49 St,40.7606833,-73.9845273,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061012500
+366,Clinton Ave & Myrtle Ave,40.693261,-73.968896,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047018700
+368,Carmine St & 6 Ave,40.730386,-74.0021499,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061006700
+414,Pearl St & Anchorage Pl,40.7028186,-73.9876576,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047002100
+507,E 25 St & 2 Ave,40.739126,-73.9797378,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061006600
+497,E 17 St & Broadway,40.7370498,-73.990093,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061005200
+353,S Portland Ave & Hanson Pl,40.6853957,-73.9743146,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047003500
+388,W 26 St & 10 Ave,40.7497178,-74.0029503,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009900
+522,E 51 St & Lexington Ave,40.7571476,-73.9720784,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,3606101e4
+296,Division St & Bowery,40.7141309,-73.9970468,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061001600
+426,West St & Chambers St,40.7175483,-74.0132207,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061031703
+127,Barrow St & Hudson St,40.7317243,-74.0067444,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061006900
+321,Cadman Plaza E & Red Cross Pl,40.6999176,-73.9897177,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047001300
+152,Warren St & Church St,40.7147399,-74.0091063,0,June,6,2013,April,4,2018,1793,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061002100
+525,W 34 St & 11 Ave,40.7559416,-74.0021163,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009900
+3020,NYCBS Test,40.6466068,-74.01597,0,June,6,2013,June,6,2013,28,Brooklyn,4012,Sunset Park & Windsor Terrace,Sunset Park,36047002e3
+363,West Thames St,40.708347,-74.0171345,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061031704
+361,Allen St & Hester St,40.7160587,-73.9919076,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061001600
+258,DeKalb Ave & Vanderbilt Ave,40.6894075,-73.9688546,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047019700
+306,Cliff St & Fulton St_1,40.708235,-74.0053006,0,June,6,2013,August,8,2018,1915,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061001502
+72,W 52 St & 11 Ave,40.7672722,-73.9939289,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061013500
+157,Henry St & Atlantic Ave,40.6908927,-73.9961235,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047000700
+253,W 13 St & 5 Ave -moved to 5947.04,40.7354393,-73.9945395,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061006300
+356,Bialystoker Pl & Delancey St,40.7162264,-73.9826121,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061001200
+365,Fulton St & Grand Ave,40.6822317,-73.9614583,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047022700
+456,E 53 St & Madison Ave,40.7597108,-73.9740231,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061010200
+314,Cadman Plaza West & Montague St,40.69383,-73.990539,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047000900
+457,Broadway & W 58 St,40.7669532,-73.9816933,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061013700
+164,E 47 St & 2 Ave,40.753231,-73.9703252,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061009e3
+161,LaGuardia Pl & W 3 St,40.7291703,-73.9981023,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061006500
+345,W 13 St & 6 Ave,40.736494,-73.9970437,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061006300
+437,Macon St & Nostrand Ave,40.6809834,-73.950048,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047024500
+448,W 37 St & 10 Ave,40.7566036,-73.9979009,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009900
+502,Henry St & Grand St,40.714215,-73.981346,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061000202
+262,Washington Park,40.6917823,-73.9737299,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047003100
+325,E 19 St & 3 Ave,40.7362453,-73.9847377,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061004800
+264,Maiden Ln & Pearl St,40.7070646,-74.0073185,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061000700
+455,1 Ave & E 44 St,40.7500199,-73.969053,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061008800
+530,11 Ave & W 59 St,40.771522,-73.990541,1,June,6,2013,NA,NA,NA,1976,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061015100
+216,Columbia Heights & Cranberry St,40.7003787,-73.9954806,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047000100
+3002,South End Ave & Liberty St,40.711512,-74.015756,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061031704
+468,Broadway & W 56 St,40.7652654,-73.9819234,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061013700
+472,E 32 St & Park Ave,40.7457121,-73.9819483,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061007200
+346,Bank St & Hudson St,40.7365289,-74.0061803,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061007900
+2006,Central Park S & 6 Ave,40.7659094,-73.9763415,1,June,6,2013,NA,NA,NA,1976,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061013700
+367,E 53 St & Lexington Ave,40.7582807,-73.9706943,0,June,6,2013,January,1,2017,1338,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,3606101e4
+344,Monroe St & Bedford Ave,40.6851443,-73.953809,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047024300
+519,Pershing Square North,40.751873,-73.977706,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061008e3
+395,Bond St & Schermerhorn St,40.68807,-73.9841064,0,June,6,2013,September,9,2017,1581,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047004100
+536,1 Ave & E 30 St,40.7414439,-73.9753608,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061007e3
+307,Canal St & Rutgers St,40.7142749,-73.9899003,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061000600
+225,W 14 St & The High Line,40.7419514,-74.0080301,0,June,6,2013,May,5,2017,1458,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061007900
+330,Reade St & Broadway,40.7145045,-74.0056279,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061003100
+487,E 20 St & FDR Drive,40.7331426,-73.9757388,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061006e3
+433,old - E 13 St & Avenue A,40.7295536,-73.9805725,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061003400
+537,Lexington Ave & E 24 St,40.7402588,-73.9840921,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061006800
+301,E 2 St & Avenue B,40.7221744,-73.9836878,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061003002
+364,Lafayette Ave & Classon Ave,40.6890044,-73.9602385,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047019300
+254,W 11 St & 6 Ave,40.7353243,-73.9980042,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061006300
+399,Lafayette Ave & St James Pl,40.6885153,-73.9647628,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047019300
+392,Jay St & Tech Pl,40.695065,-73.987167,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047001300
+417,Barclay St & Church St,40.7129122,-74.0102023,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061002100
+449,W 52 St & 9 Ave,40.7646184,-73.9878947,0,June,6,2013,March,3,2018,1762,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061013300
+394,E 9 St & Avenue C,40.7252131,-73.9776875,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061002800
+534,Water - Whitehall Plaza,40.7025507,-74.0127234,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061000900
+337,Old Slip & Front St,40.7037992,-74.0083868,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061000700
+261,Johnson St & Gold St,40.6947488,-73.9836246,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047001500
+430,York St & Jay St,40.7014851,-73.9865693,0,June,6,2013,February,2,2018,1734,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047002100
+2003,1 Ave & E 18 St,40.7338122,-73.9805442,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061004400
+435,W 21 St & 6 Ave,40.7417397,-73.9941556,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061008700
+260,Broad St & Bridge St,40.7036518,-74.011678,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061000900
+316,Fulton St & William St,40.7095596,-74.0065361,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061001502
+427,Bus Slip & State St,40.701907,-74.013942,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061000900
+329,Greenwich St & North Moore St,40.7201523,-74.010365,0,June,6,2013,September,9,2016,1216,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061003900
+317,E 6 St & Avenue B,40.7245373,-73.9818542,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061003200
+483,E 12 St & 3 Ave,40.7322327,-73.9888996,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061004200
+297,E 15 St & 3 Ave,40.734232,-73.986923,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061005e3
+276,Duane St & Greenwich St,40.7174875,-74.0104554,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061003900
+454,E 51 St & 1 Ave,40.7545573,-73.9659298,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061009800
+418,Front St & Gold St,40.70224,-73.982578,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047002100
+291,Madison St & Montgomery St,40.713126,-73.984844,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061000202
+332,Cherry St,40.7121991,-73.9794815,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061000202
+237,E 11 St & 2 Ave,40.7304731,-73.9867238,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061004e3
+342,Columbia St & Rivington St,40.7173997,-73.9801656,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061002201
+529,W 42 St & 8 Ave,40.7575699,-73.9909851,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061011500
+474,5 Ave & E 29 St,40.7451677,-73.9868308,0,June,6,2013,September,9,2018,1946,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061007400
+224,Spruce St & Nassau St,40.7114636,-74.0055243,0,June,6,2013,June,6,2017,1489,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061001501
+491,E 24 St & Park Ave S,40.7409637,-73.9860221,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061005600
+174,E 25 St & 1 Ave,40.7381765,-73.9773866,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061006200
+250,Lafayette St & Jersey St N,40.7245609,-73.9956529,0,June,6,2013,July,7,2016,1154,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061004300
+266,Avenue D & E 8 St,40.7236836,-73.9757481,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061002400
+383,Greenwich Ave & Charles St,40.735238,-74.000271,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061007100
+2000,Front St & Washington St,40.7025509,-73.9894024,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047002100
+319,Fulton St & Broadway,40.711066,-74.009447,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061001300
+3017,NYCBS Depot - FAR,40.751483,-73.996764,0,June,6,2013,February,2,2017,1369,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061010300
+243,Fulton St & Rockwell Pl,40.688226,-73.979382,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047003300
+217,Old Fulton St,40.7027716,-73.9938361,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047002100
+359,E 47 St & Park Ave,40.7551027,-73.974987,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061009200
+242,Carlton Ave & Flushing Ave,40.697787,-73.973736,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047021100
+500,Broadway & W 51 St,40.7622883,-73.9833618,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061013100
+274,Lafayette Ave & Fort Greene Pl,40.6869187,-73.976682,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047003500
+471,Grand St & Havemeyer St,40.7128684,-73.9569812,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047051900
+335,Washington Pl & Broadway,40.7290392,-73.9940465,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061005700
+501,FDR Drive & E 35 St,40.744219,-73.9712121,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061008601
+310,State St & Smith St,40.6892694,-73.9891287,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047004300
+545,E 23 St & 1 Ave,40.736502,-73.9780947,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061006e3
+464,E 56 St & 3 Ave,40.759345,-73.9675967,0,June,6,2013,August,8,2015,819,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061010800
+499,Broadway & W 60 St,40.7691551,-73.9819184,1,June,6,2013,NA,NA,NA,1976,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061014500
+2023,E 55 St & Lexington Ave,40.7596809,-73.9703137,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,3606101e4
+513,W 56 St & 10 Ave,40.768254,-73.988639,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061013900
+379,W 31 St & 7 Ave,40.749156,-73.9916,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061010100
+327,Vesey Pl & River Terrace,40.7153379,-74.0165835,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061031703
+119,Park Ave & St Edwards St,40.6960894,-73.9780342,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047002901
+385,E 55 St & 2 Ave,40.7579732,-73.9660331,0,June,6,2013,March,3,2018,1762,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061010800
+505,6 Ave & W 33 St,40.7490127,-73.988484,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061010100
+120,Lexington Ave & Classon Ave,40.6867679,-73.9592817,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047023300
+520,W 52 St & 5 Ave,40.7599226,-73.9764852,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061010400
+546,E 30 St & Park Ave S,40.7444492,-73.9830353,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061007200
+422,W 59 St & 10 Ave,40.770513,-73.988038,1,June,6,2013,NA,NA,NA,1976,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061014700
+153,E 40 St & 5 Ave,40.7520623,-73.9816324,0,June,6,2013,October,10,2017,1611,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061008200
+195,Liberty St & Broadway,40.7090562,-74.0104338,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061000700
+407,Henry St & Poplar St,40.700469,-73.991454,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047000100
+331,Pike St & Monroe St,40.7117311,-73.9919304,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061000600
+320,Leonard St & Church St,40.717571,-74.005549,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061003300
+2010,Grand St & Greene St,40.7216548,-74.0023474,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061004700
+255,NYCBS Depot - SSP,40.646768,-74.01651,0,June,6,2013,May,5,2017,1458,Brooklyn,4012,Sunset Park & Windsor Terrace,Sunset Park,36047002e3
+538,E 48 St & Madison Ave,40.75666,-73.976684,0,June,6,2013,October,10,2015,880,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009400
+532,S 5 Pl & S 5 St,40.710451,-73.960876,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047052300
+526,E 33 St & 5 Ave,40.7476595,-73.9849071,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061007400
+352,W 56 St & 6 Ave,40.7634061,-73.9772248,0,June,6,2013,December,12,2016,1307,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061010400
+411,E 6 St & Avenue D,40.7222809,-73.9766871,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061002e3
+232,Cadman Plaza E & Tillary St,40.6959768,-73.9901489,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047001300
+257,Lispenard St & Broadway,40.7193923,-74.0024721,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061003300
+421,Clermont Ave & Park Ave,40.695734,-73.9712967,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047018700
+315,South St & Gouverneur Ln,40.7035538,-74.0067023,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061000700
+351,Front St & Maiden Ln,40.7053095,-74.0061257,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061000700
+373,Willoughby Ave & Walworth St,40.6933172,-73.95382,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047024100
+340,Madison St & Clinton St,40.7126904,-73.9877632,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061000600
+267,Broadway & W 36 St,40.7509771,-73.9876543,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061010900
+415,Pearl St & Hanover Square,40.7047177,-74.0092603,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061000700
+533,Broadway & W 38 St,40.7529964,-73.9872162,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061011300
+147,Greenwich St & Warren St,40.715422,-74.0112198,0,June,6,2013,May,5,2017,1458,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061002100
+360,William St & Pine St,40.7071794,-74.0088731,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061000700
+304,Broadway & Battery Pl,40.7046333,-74.0136171,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061001300
+450,W 49 St & 8 Ave,40.7622721,-73.9878821,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061012700
+2002,Wythe Ave & Metropolitan Ave,40.716887,-73.963198,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047055500
+434,9 Ave & W 18 St,40.7431745,-74.0036644,0,June,6,2013,November,11,2017,1642,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061008300
+322,Clinton St & Tillary St,40.696192,-73.991218,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047000502
+496,E 16 St & 5 Ave,40.7372619,-73.9923897,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061005200
+2021,W 45 St & 8 Ave,40.7592912,-73.9885965,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061012100
+436,Hancock St & Bedford Ave,40.6821656,-73.9539903,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047022700
+390,Duffield St & Willoughby St,40.6922159,-73.9842844,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047001500
+284,Greenwich Ave & 8 Ave,40.7390169,-74.0026376,0,June,6,2013,April,4,2018,1793,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061007700
+419,Carlton Ave & Park Ave,40.6958071,-73.9735557,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047018501
+279,Peck Slip & Front St,40.707873,-74.00167,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061001501
+289,Monroe St & Classon Ave,40.6845683,-73.9588108,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047022900
+144,Nassau St & Navy St,40.698399,-73.9806891,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047002300
+341,Stanton St & Mangin St,40.7178214,-73.9762894,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061001002
+245,Myrtle Ave & St Edwards St,40.6932702,-73.9770387,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047003100
+343,Clinton Ave & Flushing Ave,40.69794,-73.9698685,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047054300
+408,Market St & Cherry St,40.7107623,-73.994004,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061000800
+440,E 45 St & 3 Ave,40.7525543,-73.9728263,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061009e3
+524,W 43 St & 6 Ave,40.7552731,-73.9831694,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009600
+339,Avenue D & E 12 St,40.7258061,-73.9742249,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061002400
+484,W 44 St & 5 Ave,40.7550025,-73.9801444,1,June,6,2013,NA,NA,NA,1976,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009600
+3014,3969.TEMP (Bike The Branches - Central Branch),40.722852,-73.959114,0,June,6,2013,May,5,2016,1093,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047055700
+467,Dean St & 4 Ave,40.6831249,-73.9789514,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047012901
+443,Bedford Ave & S 9 St,40.7085307,-73.9640896,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047054700
+2001,Sands St & Navy St,40.699773,-73.979927,0,June,6,2013,June,6,2018,1854,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047054300
+137,E 56 St & Madison Ave,40.761628,-73.972924,0,June,6,2013,November,11,2016,1277,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061010200
+372,Franklin Ave & Myrtle Ave,40.6945461,-73.9580137,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047123700
+228,E 48 St & 3 Ave,40.7546011,-73.9718789,1,June,6,2013,NA,NA,NA,1976,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061009200
+431,Hanover Pl & Livingston St,40.6886464,-73.9826343,0,June,6,2013,September,9,2015,850,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047003700
+2005,Railroad Ave & Kay Ave,40.7053119,-73.9710006,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047054300
+318,E 43 St & Vanderbilt Ave,40.7532016,-73.9779874,0,June,6,2013,October,10,2015,880,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009400
+302,Avenue D & E 3 St,40.7208283,-73.9779317,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061002e3
+218,Gallatin Pl & Livingston St,40.6902844,-73.9870711,0,June,6,2013,December,12,2015,941,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047003700
+400,Pitt St & Stanton St,40.7192608,-73.9817802,1,June,6,2013,NA,NA,NA,1976,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061002201
+248,Laight St & Hudson St,40.7218538,-74.0077178,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061003300
+387,Centre St & Chambers St,40.7127327,-74.0046073,1,June,6,2013,NA,NA,NA,1976,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061003100
+3000,MLSWKiosk,40.755467,-73.986536,0,June,6,2013,June,6,2013,28,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061011300
+263,Elizabeth St & Hester St,40.7175908,-73.9962244,0,June,6,2013,September,9,2016,1216,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061004100
+160,E 37 St & Lexington Ave,40.748158,-73.978462,0,June,6,2013,September,9,2016,1216,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061008e3
+409,DeKalb Ave & Skillman St,40.6906495,-73.9564311,1,June,6,2013,NA,NA,NA,1976,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047023300
+2017,E 43 St & 2 Ave,40.7502239,-73.9712141,0,July,7,2013,February,2,2017,1339,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061008800
+3180,Brooklyn Bridge Park - Pier 2,40.69878,-73.99712,0,July,7,2015,September,9,2018,1186,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047000301
+3016,Kent Ave & N 7 St,40.7710519,-73.9643383,1,August,8,2015,NA,NA,NA,1185,Manhattan,3805,Upper East Side,Upper East Side,36061013e3
+3120,Center Blvd & Borden Ave,40.74,-73.961,1,August,8,2015,NA,NA,NA,1185,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081000100
+3130,21 St & Queens Plaza North,40.7532596,-73.9433579,1,August,8,2015,NA,NA,NA,1185,Queens,4101,Astoria & Long Island City,Astoria,36081002500
+3125,45 Rd & 11 St,40.7470859,-73.9497723,1,August,8,2015,NA,NA,NA,1185,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081000700
+3126,44 Dr & Jackson Ave,40.7471823,-73.9432635,1,August,8,2015,NA,NA,NA,1185,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081001900
+3129,Queens Plaza North & Crescent St,40.7511017,-73.9407372,1,August,8,2015,NA,NA,NA,1185,Queens,4101,Astoria & Long Island City,Astoria,36081003300
+3117,Franklin St & Dupont St,40.73564,-73.95866,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047056300
+3124,46 Ave & 5 St,40.74731,-73.95451,1,August,8,2015,NA,NA,NA,1185,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081000100
+3121,Jackson Ave & 46 Rd,40.7452477,-73.9473328,1,August,8,2015,NA,NA,NA,1185,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081000700
+3113,Greenpoint Ave & Manhattan Ave,40.73026,-73.95394,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047057500
+3108,Nassau Ave & Russell St,40.72557,-73.94434,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047059100
+3119,Vernon Blvd & 50 Ave,40.7423274,-73.9541175,1,August,8,2015,NA,NA,NA,1185,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081000700
+3112,Milton St & Franklin St,40.72906,-73.95779,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047056500
+3127,9 St & 44 Rd,40.74966,-73.9521,1,August,8,2015,NA,NA,NA,1185,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081001900
+3115,India St & Manhattan Ave,40.7323219,-73.9550858,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047056300
+3109,Banker St & Meserole Ave,40.72606,-73.95621,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047056100
+3110,Meserole Ave & Manhattan Ave,40.7270858,-73.9529912,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047056100
+3111,Norman Ave & Leonard St - 2,40.7258483,-73.9506489,0,August,8,2015,July,7,2017,728,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047057300
+3118,McGuinness Blvd & Eagle St,40.73555,-73.95284,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047057900
+3107,Bedford Ave & Nassau Ave,40.7231165,-73.9521232,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047051700
+3102,Driggs Ave & Lorimer St,40.7217913,-73.9504154,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047051500
+3098,Leonard St & Bayard St,40.71928,-73.94861,0,August,8,2015,February,2,2017,578,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047051500
+3103,N 11 St & Wythe Ave,40.7215327,-73.9578236,0,August,8,2015,May,5,2018,1032,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047055700
+3101,N 12 St & Bedford Ave,40.7207982,-73.9548471,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047051700
+3123,31 St & Thomson Ave,40.7446974,-73.9354038,1,August,8,2015,NA,NA,NA,1185,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081017900
+3092,Berry St & N 8 St,40.7190095,-73.9585252,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047055300
+3087,Metropolitan Ave & Meeker Ave,40.7141331,-73.9523439,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047050100
+3104,KentAve&N7 St,40.7205766,-73.9615023,0,August,8,2015,March,3,2016,241,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047055700
+3088,Union Ave & Jackson St,40.7160751,-73.952029,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047051900
+3090,N 8 St & Driggs Ave,40.7177459,-73.956001,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047051700
+3094,Graham Ave & Withers St,40.7169811,-73.9448592,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047049700
+3084,Devoe St & Leonard St,40.7134866,-73.9479246,0,August,8,2015,December,12,2016,516,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047050300
+3095,Graham Ave & Herbert St,40.719293,-73.9450038,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047047700
+3106,Driggs Ave & N Henry St,40.72325,-73.94308,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047059100
+3097,N Henry St & Richardson St,40.7192159,-73.9424469,0,August,8,2015,May,5,2016,302,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047047700
+3091,Frost St & Meeker St,40.71764,-73.94882,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047051500
+3083,Bushwick Ave & Powers St,40.7124766,-73.9410001,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047049500
+3081,Graham Ave & Grand St,40.711863,-73.944024,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047049500
+3073,Division Ave & Hooper St,40.7069125,-73.9544167,0,August,8,2015,July,7,2018,1093,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047052900
+3075,Division Ave & Marcy Ave,40.707087,-73.9579678,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047052900
+3079,Leonard St & Grand St,40.7110354,-73.947143,0,August,8,2015,December,12,2016,516,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047050300
+3077,Stagg St & Union Ave,40.7087708,-73.9509526,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047052700
+3069,Lorimer St & Broadway,40.7041179,-73.948186,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047050900
+3076,Scholes St & Manhattan Ave,40.7087037,-73.9448625,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047050500
+3070,McKibbin St & Manhattan Ave,40.7051092,-73.9440728,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047050500
+3074,Montrose Ave & Bushwick Ave,40.7076779,-73.9401617,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4002,Bushwick,Bushwick,36047049300
+3065,Union Ave & Wallabout St,40.7002951,-73.9503228,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047050700
+3072,Leonard St & Boerum St,40.7058334,-73.9464458,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047051100
+3067,Broadway & Whipple St,40.7016657,-73.9437303,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047050700
+3060,Willoughby Ave & Tompkins Ave,40.694254,-73.9462692,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047025901
+3068,Humboldt St & Varet St,40.7031724,-73.940636,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4002,Bushwick,Bushwick,36047048900
+3063,Nostrand Ave & Myrtle Ave,40.6952701,-73.9523811,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047025500
+3062,Myrtle Ave & Marcy Ave,40.6953982,-73.9495491,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047025500
+3071,Boerum St & Broadway,40.7053808,-73.9497652,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047051100
+3179,Park Ave & Marcus Garvey Blvd,40.698617,-73.941342,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4002,Bushwick,Bushwick,36047028501
+3061,Throop Ave & Myrtle Ave,40.6962294,-73.9437109,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047025902
+3064,Myrtle Ave & Lewis Ave,40.6968196,-73.9375693,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047028700
+3066,Tompkins Ave & Hopkins St,40.6995761,-73.9470842,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047025700
+3086,Graham Ave & Conselyea St,40.715143,-73.944507,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047049700
+3093,N 6 St & Bedford Ave,40.7174517,-73.9585094,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047055300
+3114,India St & East River,40.7316514,-73.9616189,0,August,8,2015,April,4,2017,637,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047056500
+3105,N 15 St & Wythe Ave,40.724055,-73.955736,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047056100
+3055,Greene Ave & Nostrand Ave,40.6883337,-73.950916,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047025100
+3053,Marcy Ave & Lafayette Ave,40.6900815,-73.947915,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047026300
+3057,Kosciuszko St & Tompkins Ave,40.6912826,-73.9452416,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047026100
+3056,Kosciuszko St & Nostrand Ave,40.6907255,-73.9513347,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047025300
+3050,Putnam Ave & Throop Ave,40.6851532,-73.94111,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047027700
+3052,Lewis Ave & Madison St,40.686312,-73.935775,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047027700
+3048,Putnam Ave & Nostrand Ave,40.68402,-73.94977,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047024900
+3054,Greene Ave & Throop Ave,40.6894932,-73.942061,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047027900
+3222,Hanson Pl & St Felix St,40.6851596,-73.9771137,0,August,8,2015,September,9,2016,425,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047003500
+3223,E 55 St & 3 Ave,40.7589966,-73.968654,1,August,8,2015,NA,NA,NA,1185,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,3606101e4
+3058,Lewis Ave & Kosciuszko St,40.6923707,-73.9370543,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047028100
+3059,Pulaski St & Marcus Garvey Blvd,40.6933982,-73.939877,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047028100
+3128,21 St & 43 Ave,40.7505253,-73.9459485,1,August,8,2015,NA,NA,NA,1185,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081001900
+3046,Marcus Garvey Blvd & Macon St,40.682601,-73.938037,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047027500
+3047,Halsey St & Tompkins Ave,40.6823687,-73.944118,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047026900
+3041,Kingston Ave & Herkimer St,40.6789068,-73.9414277,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047027100
+3044,Albany Ave & Fulton St,40.6800105,-73.938475,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047027300
+3043,Lewis Ave & Decatur St,40.6814598,-73.934903,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047027300
+3042,Fulton St & Utica Ave,40.6794268,-73.9298911,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047029700
+3049,Cambridge Pl & Gates Ave,40.68488,-73.96304,1,August,8,2015,NA,NA,NA,1185,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047020100
+3133,E 67 St & Lexington Ave,40.7673564,-73.9649353,0,August,8,2015,September,9,2015,59,Manhattan,3805,Upper East Side,Upper East Side,36061012e3
+3158,W 63 St & Broadway,40.7716385,-73.9826143,1,August,8,2015,NA,NA,NA,1185,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061014900
+3224,W 13 St & Hudson St,40.7399735,-74.0051387,0,August,8,2015,May,5,2018,1032,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061007700
+3163,Central Park West & W 68 St,40.7734066,-73.9778254,1,September,9,2015,NA,NA,NA,1154,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061015300
+3165,Central Park West & W 72 St,40.7757532,-73.976039599999993,1,September,9,2015,NA,NA,NA,1154,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061015700
+3142,1 Ave & E 62 St,40.7612274,-73.9609402,1,September,9,2015,NA,NA,NA,1154,Manhattan,3805,Upper East Side,Upper East Side,36061011e3
+3176,W 64 St & West End Ave,40.7745284,-73.9875376,0,September,9,2015,July,7,2018,1062,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061015100
+3132,E 59 St & Madison Ave,40.7635053,-73.9710924,1,September,9,2015,NA,NA,NA,1154,Manhattan,3805,Upper East Side,Upper East Side,36061011401
+3134,3 Ave & E 62 St,40.7631258,-73.965269,1,September,9,2015,NA,NA,NA,1154,Manhattan,3805,Upper East Side,Upper East Side,36061011e3
+3141,1 Ave & E 68 St,40.7650053,-73.9581849,1,September,9,2015,NA,NA,NA,1154,Manhattan,3805,Upper East Side,Upper East Side,36061011800
+3159,W 67 St & Broadway,40.7749251,-73.9826657,1,September,9,2015,NA,NA,NA,1154,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061015300
+3175,W 70 St & Amsterdam Ave,40.7774805,-73.9828859,1,September,9,2015,NA,NA,NA,1154,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061015900
+3139,E 72 St & Park Ave,40.7712292,-73.9643263,1,September,9,2015,NA,NA,NA,1154,Manhattan,3805,Upper East Side,Upper East Side,36061013e3
+3172,W 74 St & Columbus Ave,40.7785669,-73.9775496,1,September,9,2015,NA,NA,NA,1154,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061015700
+3156,E 72 St & York Ave,40.7666381,-73.953483,1,September,9,2015,NA,NA,NA,1154,Manhattan,3805,Upper East Side,Upper East Side,36061012400
+3160,Central Park West & W 76 St,40.7789678,-73.9737474,1,September,9,2015,NA,NA,NA,1154,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061016100
+3178,Riverside Dr & W 78 St,40.7841447,-73.9836249,1,September,9,2015,NA,NA,NA,1154,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061016300
+3135,E 75 St & 3 Ave,40.7711293,-73.957723,1,September,9,2015,NA,NA,NA,1154,Manhattan,3805,Upper East Side,Upper East Side,36061013400
+3140,1 Ave & E 78 St,40.7714043,-73.9535166,1,September,9,2015,NA,NA,NA,1154,Manhattan,3805,Upper East Side,Upper East Side,36061013400
+3221,47 Ave & 31 St,40.743,-73.93561,1,September,9,2015,NA,NA,NA,1154,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081019900
+3149,E 82 St & 2 Ave,40.7751779,-73.9532492,0,September,9,2015,November,11,2015,89,Manhattan,3805,Upper East Side,Upper East Side,36061013800
+3170,W 84 St & Columbus Ave,40.7849998,-73.9728341,1,September,9,2015,NA,NA,NA,1154,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061016900
+3169,Riverside Dr & W 82 St,40.7872087,-73.9812813,1,September,9,2015,NA,NA,NA,1154,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061017100
+3147,E 85 St & 3 Ave,40.778012,-73.9540715,1,September,9,2015,NA,NA,NA,1154,Manhattan,3805,Upper East Side,Upper East Side,36061014601
+3177,W 84 St & Broadway,40.7867947,-73.977112,1,September,9,2015,NA,NA,NA,1154,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061017100
+3150,E 85 St & York Ave,40.7753691,-73.9480339,1,September,9,2015,NA,NA,NA,1154,Manhattan,3805,Upper East Side,Upper East Side,36061014401
+3146,E 81 St & 3 Ave,40.7757303,-73.9567526,1,September,9,2015,NA,NA,NA,1154,Manhattan,3805,Upper East Side,Upper East Side,36061014e3
+3144,E 81 St & Park Ave,40.776777,-73.9590097,1,September,9,2015,NA,NA,NA,1154,Manhattan,3805,Upper East Side,Upper East Side,36061014e3
+3136,5 Ave & E 63 St,40.7665045,-73.971476,1,September,9,2015,NA,NA,NA,1154,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061011401
+3145,E 84 St & Park Ave,40.7786269,-73.9577207,1,September,9,2015,NA,NA,NA,1154,Manhattan,3805,Upper East Side,Upper East Side,36061014e3
+3148,E 84 St & 1 Ave,40.7756554,-73.9506862,1,September,9,2015,NA,NA,NA,1154,Manhattan,3805,Upper East Side,Upper East Side,36061013800
+3164,Columbus Ave & W 72 St,40.7770575,-73.9789848,1,September,9,2015,NA,NA,NA,1154,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061015700
+3166,Riverside Dr & W 72 St,40.780578,-73.9856243,1,September,9,2015,NA,NA,NA,1154,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061016300
+3082,Hope St & Union Ave,40.7116735,-73.9514131,1,September,9,2015,NA,NA,NA,1154,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047051300
+3085,Roebling St & N 4 St,40.71469,-73.95739,0,September,9,2015,August,8,2018,1093,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047051900
+3080,S 4 St & Rodney St,40.70934,-73.95608,1,September,9,2015,NA,NA,NA,1154,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047052700
+3231,E 67 St & Park Ave,40.7678008,-73.9659208,1,September,9,2015,NA,NA,NA,1154,Manhattan,3805,Upper East Side,Upper East Side,36061012e3
+3167,Amsterdam Ave & W 73 St,40.7796681,-73.9809304,1,September,9,2015,NA,NA,NA,1154,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061015900
+3230,Penn Station Valet,40.7512836,-73.9969245,0,September,9,2015,February,2,2017,547,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061010300
+3226,W 82 St & Central Park West,40.78275,-73.97137,1,September,9,2015,NA,NA,NA,1154,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061016500
+3137,5 Ave & E 73 St,40.7728282,-73.9668528,1,September,9,2015,NA,NA,NA,1154,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061013e3
+3232,Bond St & Fulton St,40.6896219,-73.9830427,1,September,9,2015,NA,NA,NA,1154,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047003700
+3122,48 Ave & 5 St,40.7443633,-73.9558733,1,October,10,2015,NA,NA,NA,1124,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081000700
+3229,Marcy Ave & MacDonough St,40.6806177,-73.9462495,0,October,10,2015,April,4,2016,211,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047026900
+3168,Central Park West & W 85 St,40.7847268,-73.9696172,1,October,10,2015,NA,NA,NA,1124,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061016900
+3161,W 76 St & Columbus Ave,40.780184,-73.9772853,1,October,10,2015,NA,NA,NA,1124,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061016100
+3143,5 Ave & E 78 St,40.7768286,-73.9638877,1,October,10,2015,NA,NA,NA,1124,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061014200
+3157,East End Ave & E 86 St,40.7751862,-73.9444605,1,October,10,2015,NA,NA,NA,1124,Manhattan,3805,Upper East Side,Upper East Side,36061014402
+3116,Huron St & Franklin St,40.73266,-73.95826,1,October,10,2015,NA,NA,NA,1124,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047056300
+3162,W 78 St & Broadway,40.7833998,-73.9809313,1,October,10,2015,NA,NA,NA,1124,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061016700
+3173,Riverside Blvd & W 67 St,40.777507,-73.9888859,1,October,10,2015,NA,NA,NA,1124,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061015500
+3233,E 48 St & 5 Ave,40.7572457,-73.9780591,1,October,10,2015,NA,NA,NA,1124,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009400
+3155,Lexington Ave & E 63 St,40.7644002,-73.9664898,1,October,10,2015,NA,NA,NA,1124,Manhattan,3805,Upper East Side,Upper East Side,36061011402
+3171,Amsterdam Ave & W 82 St,40.7852467,-73.9766732,1,October,10,2015,NA,NA,NA,1124,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061016900
+3235,E 41 St & Madison Ave,40.7521653,-73.9799219,1,October,10,2015,NA,NA,NA,1124,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061008200
+3234,E 40 St & Madison Ave,40.7515937,-73.9804316,0,October,10,2015,January,1,2016,120,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061008200
+3099,Leonard St & Manhattan Ave,40.7215224,-73.9489827,0,October,10,2015,December,12,2016,455,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047051500
+3237,21 St & 41 Ave,40.7538334,-73.9426768,0,October,10,2015,February,2,2017,517,Queens,4101,Astoria & Long Island City,Astoria,36081002500
+3236,W 42 St & Dyer Ave,40.7589848,-73.9937997,1,November,11,2015,NA,NA,NA,1093,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061012100
+3089,Leonard St & Meeker Ave,40.7173184,-73.9482021,0,November,11,2015,November,11,2016,394,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047050100
+3096,Union Ave & N 12 St,40.71924,-73.95242,1,November,11,2015,NA,NA,NA,1093,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047051500
+3154,E 77 St & 3 Ave,40.7731424,-73.9585616,1,November,11,2015,NA,NA,NA,1093,Manhattan,3805,Upper East Side,Upper East Side,36061014e3
+3151,E 81 St & York Ave,40.7728384,-73.9498923,1,November,11,2015,NA,NA,NA,1093,Manhattan,3805,Upper East Side,Upper East Side,36061013600
+3078,Broadway & Roebling St,40.7092556,-73.9598222,1,November,11,2015,NA,NA,NA,1093,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047052500
+3138,E 77 St & Park Ave,40.7744055,-73.9617527,0,December,12,2015,September,9,2016,303,Manhattan,3805,Upper East Side,Upper East Side,36061013e3
+3153,E 71 St & 2 Ave,40.7681755,-73.9591026,1,December,12,2015,NA,NA,NA,1063,Manhattan,3805,Upper East Side,Upper East Side,36061012600
+3238,E 80 St & 2 Ave,40.7739139,-73.9543954,0,December,12,2015,February,2,2018,821,Manhattan,3805,Upper East Side,Upper East Side,36061013800
+3241,Monroe St & Tompkins Ave,40.686203,-73.944694,1,December,12,2015,NA,NA,NA,1063,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047026500
+3242,Schermerhorn St & Court St,40.6910293,-73.9918336,1,December,12,2015,NA,NA,NA,1063,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047000900
+3243,E 58 St & 1 Ave,40.7589239,-73.9622623,1,January,1,2016,NA,NA,NA,1032,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061010601
+3244,University Pl & E 8 St,40.7314372,-73.9949034,1,January,1,2016,NA,NA,NA,1032,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061005900
+3100,Nassau Ave & Newell St,40.7248126,-73.9475262,1,March,3,2016,NA,NA,NA,972,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047057100
+3246,Montague St & Clinton St,40.6942811,-73.9923003,0,March,3,2016,February,2,2017,365,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047000900
+3249,Verona Pl & Fulton St,40.6803561,-73.9476791,1,April,4,2016,NA,NA,NA,941,Brooklyn,4003,Bedford-Stuyvesant,Bedford Stuyvesant,36047024900
+3131,E 68 St & 3 Ave,40.7671284,-73.9622462,1,April,4,2016,NA,NA,NA,941,Manhattan,3805,Upper East Side,Upper East Side,36061011800
+3253,Bike The Branches - Central Branch,40.6728064,-73.9688659,0,May,5,2016,May,5,2017,393,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047020700
+3252,Bike The Branches - Red Hook Branch,40.6753495,-74.0100203,0,May,5,2016,May,5,2016,28,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047005300
+3255,8 Ave & W 31 St,40.7505853,-73.9946848,1,May,5,2016,NA,NA,NA,911,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061010300
+3152,3 Ave & E 71 St,40.7687369,-73.9611995,1,June,6,2016,NA,NA,NA,880,Manhattan,3805,Upper East Side,Upper East Side,36061012600
+3256,Pier 40 - Hudson River Park,40.7277141,-74.0112957,1,June,6,2016,NA,NA,NA,880,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061003700
+3260,Mercer St & Bleecker St,40.7270636,-73.9966214,1,June,6,2016,NA,NA,NA,880,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061005501
+3259,9 Ave & W 28 St,40.7493702,-73.9992338,1,June,6,2016,NA,NA,NA,880,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009700
+3219,NYCBS Depot - STY,40.729193,-73.976655,0,July,7,2016,May,5,2017,332,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061004400
+3263,Cooper Square & Astor Pl,40.7292365,-73.990868,1,July,7,2016,NA,NA,NA,850,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061004200
+3245,NYCBS DEPOT - DELANCEY,40.6466779,-74.0163034,0,July,7,2016,August,8,2018,789,Brooklyn,4012,Sunset Park & Windsor Terrace,Sunset Park,36047002e3
+3264,E 61 St & Park Ave,40.7642101,-73.9691046,0,July,7,2016,March,3,2017,271,Manhattan,3805,Upper East Side,Upper East Side,36061011401
+3265,E 2 St & 2 Ave E,40.7245634,-73.9894438,0,July,7,2016,March,3,2017,271,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061003602
+3250,NYCBS Depot - PIT,40.7169098,-73.983838,0,July,7,2016,January,1,2018,577,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061001200
+3040,GOW Tech Shop,40.646678,-74.016263,0,July,7,2016,August,8,2018,789,Brooklyn,4012,Sunset Park & Windsor Terrace,Sunset Park,36047002e3
+3258,W 27 St & 10 Ave,40.7501816,-74.0021843,1,July,7,2016,NA,NA,NA,850,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009700
+3266,Kiosk in a box Deployment,40.708611,-73.928504,0,July,7,2016,September,9,2016,90,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047044900
+3282,5 Ave & E 88 St,40.78307,-73.95939,1,August,8,2016,NA,NA,NA,819,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061015002
+3285,W 87 St & Amsterdam Ave,40.78839,-73.9747,1,August,8,2016,NA,NA,NA,819,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061017500
+3284,E 88 St & Park Ave,40.7814107,-73.9559591,1,August,8,2016,NA,NA,NA,819,Manhattan,3805,Upper East Side,Upper East Side,36061014802
+3287,W 87 St & West End Ave,40.790261,-73.977131,0,August,8,2016,September,9,2016,59,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061017500
+3288,E 88 St & 1 Ave,40.778301,-73.9488134,1,August,8,2016,NA,NA,NA,819,Manhattan,3805,Upper East Side,Upper East Side,36061014602
+3291,Riverside Dr & W 91 St,40.7933718,-73.9768512,0,August,8,2016,September,9,2016,59,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061017900
+3286,E 89 St & 3 Ave,40.7806284,-73.9521667,1,August,8,2016,NA,NA,NA,819,Manhattan,3805,Upper East Side,Upper East Side,36061015400
+3292,5 Ave & E 93 St,40.7857851,-73.957481,1,August,8,2016,NA,NA,NA,819,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061016001
+3294,E 91 St & Park Ave,40.7835016,-73.955327,1,August,8,2016,NA,NA,NA,819,Manhattan,3805,Upper East Side,Upper East Side,36061015002
+3312,1 Ave & E 94 St,40.7817212,-73.94594,1,August,8,2016,NA,NA,NA,819,Manhattan,3805,Upper East Side,Upper East Side,36061015400
+3290,E 89 St & York Ave,40.7779453,-73.946041,1,August,8,2016,NA,NA,NA,819,Manhattan,3805,Upper East Side,Upper East Side,36061014402
+3295,Central Park W & W 96 St,40.79127,-73.964839,1,August,8,2016,NA,NA,NA,819,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061018100
+3301,Columbus Ave & W 95 St,40.7919557,-73.968087,0,August,8,2016,September,9,2018,789,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061018100
+3307,West End Ave & W 94 St,40.7941654,-73.974124,1,August,8,2016,NA,NA,NA,819,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061018300
+3314,W 95 St & Broadway,40.7937704,-73.971888,1,August,8,2016,NA,NA,NA,819,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061018300
+3336,E 97 St & Madison Ave,40.787801,-73.953559,1,August,8,2016,NA,NA,NA,819,Manhattan,3804,East Harlem,East Harlem,36061016002
+3325,E 95 St & 3 Ave,40.7849032,-73.950503,0,August,8,2016,May,5,2018,666,Manhattan,3805,Upper East Side,Upper East Side,36061015801
+3425,2 Ave & E 104 St,40.7892105,-73.9437078,1,August,8,2016,NA,NA,NA,819,Manhattan,3804,East Harlem,East Harlem,36061016400
+3305,E 91 St & 2 Ave,40.7811223,-73.9496559,1,August,8,2016,NA,NA,NA,819,Manhattan,3805,Upper East Side,Upper East Side,36061015400
+3320,Central Park West & W 100 St,40.793393,-73.9635556,1,August,8,2016,NA,NA,NA,819,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061018500
+3351,E 102 St & 1 Ave,40.7869946,-73.941648,1,August,8,2016,NA,NA,NA,819,Manhattan,3804,East Harlem,East Harlem,36061016200
+3341,Central Park West & W 102 St,40.795346,-73.96186,1,August,8,2016,NA,NA,NA,819,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061018900
+3289,W 90 St & Amsterdam Ave,40.7901795,-73.9728892,1,August,8,2016,NA,NA,NA,819,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061017700
+3309,E 97 St & 3 Ave,40.7859201,-73.9486029,1,August,8,2016,NA,NA,NA,819,Manhattan,3804,East Harlem,East Harlem,36061015602
+3327,3 Ave & E 100 St,40.7877214,-73.9472833,1,August,8,2016,NA,NA,NA,819,Manhattan,3804,East Harlem,East Harlem,36061016400
+3350,W 100 St & Broadway,40.7973721,-73.9704119,1,August,8,2016,NA,NA,NA,819,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061018700
+3316,W 104 St & Amsterdam Ave - 1,40.7989937,-73.9662174,0,August,8,2016,June,6,2018,697,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061018900
+3302,Columbus Ave & W 103 St,40.7969347,-73.9643412,1,August,8,2016,NA,NA,NA,819,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061018900
+3345,Madison Ave & E 99 St,40.7894854,-73.9524293,1,August,8,2016,NA,NA,NA,819,Manhattan,3804,East Harlem,East Harlem,36061016800
+3363,E 102 St & Park Ave,40.7904828,-73.9503307,1,August,8,2016,NA,NA,NA,819,Manhattan,3804,East Harlem,East Harlem,36061016800
+3357,W 106 St & Amsterdam Ave,40.8008363,-73.9664492,1,August,8,2016,NA,NA,NA,819,Manhattan,3802,"Hamilton Heights, Manhattanville & West Harlem",Morningside Heights/Hamilton Heights,36061019500
+3323,W 106 St & Central Park West,40.7981856,-73.9605909,1,August,8,2016,NA,NA,NA,819,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061018900
+3367,5 Ave & E 103 St,40.7922553,-73.9524993,1,August,8,2016,NA,NA,NA,819,Manhattan,3804,East Harlem,East Harlem,36061016800
+3343,W 107 St & Columbus Ave,40.7997568,-73.9621129,1,August,8,2016,NA,NA,NA,819,Manhattan,3802,"Hamilton Heights, Manhattanville & West Harlem",Morningside Heights/Hamilton Heights,36061019300
+3391,E 106 St & 1 Ave,40.7892529,-73.9395624,1,August,8,2016,NA,NA,NA,819,Manhattan,3804,East Harlem,East Harlem,36061016200
+3385,2 Ave & E 105 St,40.7898175,-73.9429611,0,August,8,2016,August,8,2016,28,Manhattan,3804,East Harlem,East Harlem,36061017e3
+3390,E 109 St & 3 Ave,40.7932967,-73.9432083,1,August,8,2016,NA,NA,NA,819,Manhattan,3804,East Harlem,East Harlem,36061017e3
+3400,E 110 St & Madison Ave,40.7961535,-73.9478215,1,August,8,2016,NA,NA,NA,819,Manhattan,3804,East Harlem,East Harlem,36061017401
+3387,E 106 St & Madison Ave,40.7934337,-73.94945,1,August,8,2016,NA,NA,NA,819,Manhattan,3804,East Harlem,East Harlem,36061016800
+3379,E 103 St & Lexington Ave,40.7903051,-73.9475576,1,August,8,2016,NA,NA,NA,819,Manhattan,3804,East Harlem,East Harlem,36061016600
+3331,Riverside Dr & W 104 St,40.8013434,-73.9711457,1,August,8,2016,NA,NA,NA,819,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061019100
+3366,West End Ave & W 107 St,40.8021174,-73.9681805,1,August,8,2016,NA,NA,NA,819,Manhattan,3802,"Hamilton Heights, Manhattanville & West Harlem",Morningside Heights/Hamilton Heights,36061019500
+3408,Congress St & Clinton St,40.6881529,-73.9952092,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047004500
+3411,Bond St & Bergen St,40.6849668,-73.9862077,1,August,8,2016,NA,NA,NA,819,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047007100
+3413,Wyckoff St & 3 Ave,40.6827549,-73.9825856,1,August,8,2016,NA,NA,NA,819,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047012700
+3417,Baltic St & 5 Ave,40.6795766,-73.9785497,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047012901
+3416,7 Ave & Park Pl,40.6776147,-73.9732428,0,August,8,2016,October,10,2017,454,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047016100
+3415,Prospect Pl & 6 Ave,40.6793307,-73.9751952,1,August,8,2016,NA,NA,NA,819,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047016100
+3419,Douglass St & 4 Ave,40.6792788,-73.98154,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047013100
+3420,Douglass St & 3 Ave,40.6802133,-73.984327,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047011900
+3303,Butler St & Court St,40.6849894,-73.9944033,1,August,8,2016,NA,NA,NA,819,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047006900
+3422,Columbia St & Degraw St,40.6859296,-74.0024236,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047004700
+3311,Columbia St & Kane St,40.6876316,-74.0016256,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047004700
+3321,Clinton St & Union St,40.6831164,-73.9978527,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047006700
+3383,Cathedral Pkwy & Broadway,40.804213,-73.966991,1,August,8,2016,NA,NA,NA,819,Manhattan,3802,"Hamilton Heights, Manhattanville & West Harlem",Morningside Heights/Hamilton Heights,36061019500
+3335,Union St & 4 Ave,40.6772744,-73.98282,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047013300
+3389,Carroll St & Columbia St,40.6830456,-74.0034856,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047005100
+3393,Richards St & Delavan St,40.6794327,-74.0078504,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047005900
+3392,Commerce St & Van Brunt St,40.6812117,-74.0086091,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047005900
+3395,Henry St & W 9 St [old],40.6763744,-74.0032496,0,August,8,2016,March,3,2018,605,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047005900
+3315,Henry St & Degraw St,40.6847514,-73.9991725,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047006300
+3403,4 Ave & 9 St,40.6705135,-73.9887659,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047012100
+3373,3 St & 3 Ave,40.6750705,-73.9877523,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047011900
+3401,2 Ave & 9 St,40.6724811,-73.9933139,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047012100
+3398,Smith St & 9 St,40.6746957,-73.9978577,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047007700
+3396,Clinton St & 4 Place,40.6783563,-74.000145,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047006500
+3339,Berkeley Pl & 6 Ave,40.6765304,-73.9784688,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047013100
+3368,5 Ave & 3 St,40.6728155,-73.9835236,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047013500
+3308,Kane St & Clinton St,40.6861758,-73.996453,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047004500
+3405,5 St & 6 Ave,40.6704836,-73.9820897,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047013700
+3304,6 Ave & 9 St,40.668127,-73.9837764,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047015300
+3310,14 St & 7 Ave,40.663779,-73.9839685,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047014900
+3306,10 St & 7 Ave,40.6662078,-73.9819989,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047015100
+3297,6 St & 7 Ave,40.6686627,-73.9798807,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047015300
+3404,7 St & 5 Ave,40.6704922,-73.9854168,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047013700
+3402,Court St & State St,40.6902375,-73.9920307,1,August,8,2016,NA,NA,NA,819,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047000900
+3313,6 Ave & 12 St,40.6663181,-73.9854617,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047013900
+3322,12 St & 4 Ave,40.668603,-73.9904394,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047011700
+3333,Columbia St & Lorraine St,40.6747055,-74.0075572,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047008500
+3317,10 St & 5 Ave,40.6686273,-73.9870005,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047013900
+3330,Henry St & Bay St,40.6725058,-74.004947,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047005300
+3427,Lafayette St & Jersey St,40.7243053,-73.9960098,1,August,8,2016,NA,NA,NA,819,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061004300
+3364,Carroll St & 5 Ave,40.6751622,-73.9814832,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047013300
+3324,3 Ave & 14 St,40.6685455,-73.9933326,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047011700
+3388,President St & Henry St,40.6828003,-73.9999042,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047006700
+3298,Warren St & Court St,40.686371,-73.9938332,1,August,8,2016,NA,NA,NA,819,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047006900
+3421,Hoyt St & Warren St,40.6843549,-73.9890163,1,August,8,2016,NA,NA,NA,819,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047007100
+3329,Degraw St & Smith St,40.6829151,-73.9931821,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047007500
+3410,Dean St & Hoyt St,40.6864442,-73.987591,1,August,8,2016,NA,NA,NA,819,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047004100
+3361,Carroll St & 6 Ave,40.6740886,-73.9787282,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047015700
+3382,Carroll St & Smith St,40.680611,-73.9947583,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047007500
+3397,Court St & Nelson St,40.6763947,-73.9986989,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047007700
+3300,Prospect Park West & 8 St,40.6651468,-73.9763761,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047016700
+3386,1 Pl & Clinton St,40.6809591,-73.9990571,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047006500
+3340,Wolcott St & Dwight St,40.6753274,-74.0100698,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047005300
+3326,Clinton St & Centre St,40.67434,-74.001947,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047005300
+3353,Reed St & Van Brunt St,40.6747844,-74.0161285,0,August,8,2016,August,8,2017,393,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047005300
+3342,Pioneer St & Richards St,40.6777748,-74.0094613,1,August,8,2016,NA,NA,NA,819,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047008500
+3374,Central Park North & Adam Clayton Powell Blvd,40.799484,-73.955613,1,September,9,2016,NA,NA,NA,788,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061021600
+3293,W 92 St & Broadway,40.7921,-73.9739,1,September,9,2016,NA,NA,NA,788,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061017900
+3381,3 St & Hoyt St,40.6777287,-73.9936412,1,September,9,2016,NA,NA,NA,788,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047007700
+3319,14 St & 5 Ave,40.666287,-73.9889505,1,September,9,2016,NA,NA,NA,788,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047014100
+3347,Van Brunt St & Wolcott St,40.6773429,-74.0127506,1,September,9,2016,NA,NA,NA,788,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047005300
+3428,8 Ave & W 16 St,40.740983,-74.001702,0,September,9,2016,November,11,2017,454,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061008300
+3377,Carroll St & Bond St,40.6786115,-73.9903729,1,September,9,2016,NA,NA,NA,788,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047007700
+3394,Columbia St & W 9 St,40.6769993,-74.0064713,1,September,9,2016,NA,NA,NA,788,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047008500
+3384,Smith St & 3 St,40.6787242,-73.995991,1,September,9,2016,NA,NA,NA,788,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047007700
+3365,3 St & 7 Ave,40.6703837,-73.9783968,1,September,9,2016,NA,NA,NA,788,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047015500
+3418,Plaza St West & Flatbush Ave,40.6750207,-73.9711147,1,September,9,2016,NA,NA,NA,788,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047015900
+3344,Pioneer St & Van Brunt St,40.679043,-74.011169,1,September,9,2016,NA,NA,NA,788,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047005900
+3429,Hanson Pl & Ashland Pl,40.6850681,-73.9779076,1,September,9,2016,NA,NA,NA,788,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047003500
+3423,West Drive & Prospect Park West,40.6610634,-73.9794526,1,September,9,2016,NA,NA,NA,788,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047016700
+3355,E 66 St & Madison Ave,40.7680089,-73.9684528,1,September,9,2016,NA,NA,NA,788,Manhattan,3805,Upper East Side,Upper East Side,36061012200
+3359,E 68 St & Madison Ave,40.7691572,-73.9670346,1,September,9,2016,NA,NA,NA,788,Manhattan,3805,Upper East Side,Upper East Side,36061012200
+3354,3 St & Prospect Park West,40.668132,-73.9736383,1,September,9,2016,NA,NA,NA,788,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047016500
+3430,Richardson St & N Henry St,40.7190789,-73.9422369,1,September,9,2016,NA,NA,NA,788,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047047700
+3283,W 89 St & Columbus Ave,40.7882213,-73.9704156,1,September,9,2016,NA,NA,NA,788,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061017300
+3378,E 76 St & Park Ave,40.773763,-73.9622209,1,September,9,2016,NA,NA,NA,788,Manhattan,3805,Upper East Side,Upper East Side,36061013e3
+3370,E 78 St & 2 Ave,40.7727966,-73.955778,1,September,9,2016,NA,NA,NA,788,Manhattan,3805,Upper East Side,Upper East Side,36061013400
+3356,Amsterdam Ave & W 66 St,40.7746671,-73.9847057,1,September,9,2016,NA,NA,NA,788,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061015100
+3412,Pacific St & Nevins St,40.6853761,-73.9830214,1,September,9,2016,NA,NA,NA,788,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047003900
+3338,2 Ave & E 99 St,40.7862586,-73.9455258,1,September,9,2016,NA,NA,NA,788,Manhattan,3804,East Harlem,East Harlem,36061016400
+3424,E 106 St & Lexington Ave,40.791976,-73.945993,1,September,9,2016,NA,NA,NA,788,Manhattan,3804,East Harlem,East Harlem,36061017200
+3349,Grand Army Plaza & Plaza St West,40.6729679,-73.9708798,1,September,9,2016,NA,NA,NA,788,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047015900
+3328,W 100 St & Manhattan Ave,40.795,-73.9645,1,September,9,2016,NA,NA,NA,788,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061018900
+3348,Coffey St & Conover St,40.677236,-74.015665,1,September,9,2016,NA,NA,NA,788,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047005300
+3431,E 35 St & 3 Ave,40.746524,-73.977885,1,September,9,2016,NA,NA,NA,788,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061008e3
+3360,Amsterdam Ave & W 79 St,40.7829391,-73.9786517,1,September,9,2016,NA,NA,NA,788,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061016700
+3409,Bergen St & Smith St,40.6867443,-73.9906317,1,September,9,2016,NA,NA,NA,788,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047006900
+3414,Bergen St & Flatbush Ave,40.6809447,-73.9756733,1,September,9,2016,NA,NA,NA,788,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047012902
+3372,E 74 St & 1 Ave,40.7689738,-73.9548227,1,September,9,2016,NA,NA,NA,788,Manhattan,3805,Upper East Side,Upper East Side,36061012400
+3358,Garfield Pl & 8 Ave,40.6711978,-73.9748413,1,September,9,2016,NA,NA,NA,788,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047015700
+3399,7 St & 3 Ave,40.672603,-73.98983,1,September,9,2016,NA,NA,NA,788,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047011900
+3375,3 Ave & E 72 St,40.7699426,-73.9606071,1,September,9,2016,NA,NA,NA,788,Manhattan,3805,Upper East Side,Upper East Side,36061012800
+3362,Madison Ave & E 82 St,40.7781314,-73.960694,1,September,9,2016,NA,NA,NA,788,Manhattan,3805,Upper East Side,Upper East Side,36061014200
+3376,E 65 St & 2 Ave,40.7647185,-73.9622207,1,September,9,2016,NA,NA,NA,788,Manhattan,3805,Upper East Side,Upper East Side,36061011800
+3332,Degraw St & Hoyt St,40.6819904,-73.9907902,1,September,9,2016,NA,NA,NA,788,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047007500
+3435,Grand St & Elizabeth St,40.718822,-73.99596,1,September,9,2016,NA,NA,NA,788,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061004100
+3436,Greenwich St & Hubert St,40.721319,-74.010065,0,September,9,2016,October,10,2017,423,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061003900
+3434,W 88 St & West End Ave,40.7902542,-73.9771834,1,September,9,2016,NA,NA,NA,788,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061017500
+3346,Berkeley Pl & 7 Ave,40.6751468,-73.9752321,1,October,10,2016,NA,NA,NA,758,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047015900
+3407,Union St & Nevins St,40.679098,-73.9876547,1,October,10,2016,NA,NA,NA,758,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047011900
+3438,E 76 St & 3 Ave,40.7722485,-73.9584213,0,November,11,2016,September,9,2018,697,Manhattan,3805,Upper East Side,Upper East Side,36061013400
+3440,Fulton St & Adams St,40.6924183,-73.9894947,1,November,11,2016,NA,NA,NA,727,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047001100
+3371,4 Ave & 2 St,40.6746134,-73.9850114,1,December,12,2016,NA,NA,NA,697,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047013500
+3239,Bressler,40.6465384,-74.0165877,1,December,12,2016,NA,NA,NA,697,Brooklyn,4012,Sunset Park & Windsor Terrace,Sunset Park,36047002e3
+3443,W 52 St & 6 Ave,40.7613298,-73.97982,1,January,1,2017,NA,NA,NA,666,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061013100
+3352,Sigourney St & Columbia St,40.6726724,-74.0087952,1,January,1,2017,NA,NA,NA,666,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047005300
+3447,E 71 St & 1 Ave,40.7670343,-73.9562273,0,February,2,2017,June,6,2018,513,Manhattan,3805,Upper East Side,Upper East Side,36061012400
+3445,Riverside Dr & W 89 St,40.7918117,-73.9786023,0,February,2,2017,July,7,2017,178,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061017500
+3318,2 Ave & E 96 St,40.7839636,-73.9471673,1,February,2,2017,NA,NA,NA,635,Manhattan,3805,Upper East Side,Upper East Side,36061015601
+3450,Penn Station Valet - Valet Scan,40.7512836,-73.9969245,0,February,2,2017,April,4,2017,87,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061010300
+3337,Dwight St & Van Dyke St,40.6736355,-74.0119556,1,February,2,2017,NA,NA,NA,635,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047005300
+3452,Bayard St & Leonard St,40.7191557,-73.9488539,1,February,2,2017,NA,NA,NA,635,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047051500
+3453,Devoe St & Lorimer St,40.7133523,-73.9491034,1,February,2,2017,NA,NA,NA,635,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047050300
+3454,Leonard St & Maujer St,40.7103685,-73.9470595,1,February,2,2017,NA,NA,NA,635,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047050500
+3455,Schermerhorn St & 3 Ave,40.6868082,-73.9803618,0,March,3,2017,June,6,2018,485,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047003900
+3449,Eckford St & Engert Ave,40.7214626,-73.948009,1,March,3,2017,NA,NA,NA,607,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047049900
+3441,10 Hudson Yards,40.752957,-74.00264,1,March,3,2017,NA,NA,NA,607,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009900
+3456,Jackson St & Leonard St,40.7163803,-73.9482129,1,March,3,2017,NA,NA,NA,607,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047050100
+3459,E 53 St & 3 Ave,40.7576323,-73.9693058,1,April,4,2017,NA,NA,NA,576,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061009800
+3463,E 16 St & Irving Pl,40.7353671,-73.9879739,1,April,4,2017,NA,NA,NA,576,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061005e3
+3462,E 44 St & 2 Ave,40.7511839,-73.9713871,1,April,4,2017,NA,NA,NA,576,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061009e3
+3457,E 58 St & Madison Ave,40.7630259,-73.9720953,1,April,4,2017,NA,NA,NA,576,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061011202
+3464,W 37 St & Broadway,40.7522709,-73.9877057,0,May,5,2017,October,10,2017,181,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061010900
+3458,W 55 St & 6 Ave,40.7630939,-73.9783502,1,May,5,2017,NA,NA,NA,546,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061013700
+3461,Murray St & Greenwich St,40.7148515,-74.0112233,1,May,5,2017,NA,NA,NA,546,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061002100
+3466,W 45 St & 6 Ave (OLD),40.7566872,-73.9825773,0,May,5,2017,August,8,2018,485,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009600
+3468,NYCBS Depot - STY - Garage 4,40.7303801,-73.9747502,0,May,5,2017,July,7,2018,454,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061004400
+3469,India St & West St,40.731814,-73.9599502,1,June,6,2017,NA,NA,NA,515,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047056500
+3369,E 82 St & East End Ave,40.7724607,-73.9468208,1,June,6,2017,NA,NA,NA,515,Manhattan,3805,Upper East Side,Upper East Side,36061013600
+3470,Expansion Tech Station,40.6698019,-73.9949048,0,June,6,2017,August,8,2017,89,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047011700
+3472,W 15 St & 10 Ave,40.7427538,-74.0074736,1,June,6,2017,NA,NA,NA,515,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061008300
+3474,6 Ave & Spring St,40.7252557,-74.0041208,1,June,6,2017,NA,NA,NA,515,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061004700
+3476,Norman Ave & Leonard St,40.72577,-73.9507395,0,July,7,2017,November,11,2017,151,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047057300
+3437,Riverside Dr & W 91 St,40.7931348,-73.9770037,1,July,7,2017,NA,NA,NA,485,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061017900
+3296,E 93 St & 2 Ave,40.7824542,-73.9489196,1,August,8,2017,NA,NA,NA,454,Manhattan,3805,Upper East Side,Upper East Side,36061015400
+3485,NYCBS Depot - RIS,40.725208,-73.974724,0,August,8,2017,July,7,2018,362,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061002400
+3467,W Broadway & Spring Street,40.7249467,-74.0016586,1,August,8,2017,NA,NA,NA,454,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061004900
+3489,Gold St & Frankfort St,40.7106999,-74.0035415,1,August,8,2017,NA,NA,NA,454,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061001501
+3486,Schermerhorn St & Bond St,40.6884174,-73.9845166,1,September,9,2017,NA,NA,NA,423,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047003700
+3496,1 Ave & E 110 St,40.7923272,-73.9383,1,September,9,2017,NA,NA,NA,423,Manhattan,3804,East Harlem,East Harlem,36061018e3
+3553,Frederick Douglass Blvd & W 112 St,40.801694,-73.957145,1,September,9,2017,NA,NA,NA,423,Manhattan,3803,Central Harlem,Central Harlem,36061021600
+3494,E 115 St & Lexington Ave,40.797911,-73.9423,1,September,9,2017,NA,NA,NA,423,Manhattan,3804,East Harlem,East Harlem,36061018200
+3495,E 114 St & 1 Ave,40.7945663,-73.9362541,1,September,9,2017,NA,NA,NA,423,Manhattan,3804,East Harlem,East Harlem,36061017800
+3497,Pleasant Ave & E 116 St,40.7949879,-73.9333349,1,September,9,2017,NA,NA,NA,423,Manhattan,3804,East Harlem,East Harlem,36061017800
+3490,E 116 St & 2 Ave,40.796879,-73.937261,1,September,9,2017,NA,NA,NA,423,Manhattan,3804,East Harlem,East Harlem,36061018800
+3632,E 12 St & Avenue B,40.7280486,-73.9788115,1,September,9,2017,NA,NA,NA,423,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061002800
+3551,3 Ave & E 112 St,40.795508,-73.941606,1,September,9,2017,NA,NA,NA,423,Manhattan,3804,East Harlem,East Harlem,36061018e3
+3502,Lexington Ave & E 111 St,40.7954121,-73.9441232,1,September,9,2017,NA,NA,NA,423,Manhattan,3804,East Harlem,East Harlem,36061017200
+3500,E 115 St & Madison Ave,40.7989445,-73.944846,1,September,9,2017,NA,NA,NA,423,Manhattan,3804,East Harlem,East Harlem,36061018400
+3552,W 113 St & Broadway,40.805973,-73.964928,1,September,9,2017,NA,NA,NA,423,Manhattan,3802,"Hamilton Heights, Manhattanville & West Harlem",Morningside Heights/Hamilton Heights,36061019900
+3511,Adam Clayton Powell Blvd & W 115 St,40.802535,-73.9532423,1,September,9,2017,NA,NA,NA,423,Manhattan,3803,Central Harlem,Central Harlem,36061021800
+3509,Lenox Ave & W 115 St,40.8011939,-73.9500739,1,September,9,2017,NA,NA,NA,423,Manhattan,3803,Central Harlem,Central Harlem,36061018600
+3536,W 116 St & Broadway,40.8082,-73.9641,1,September,9,2017,NA,NA,NA,423,Manhattan,3802,"Hamilton Heights, Manhattanville & West Harlem",Morningside Heights/Hamilton Heights,36061020500
+3542,Amsterdam Ave & W 119 St,40.8086249,-73.9596214,1,September,9,2017,NA,NA,NA,423,Manhattan,3802,"Hamilton Heights, Manhattanville & West Harlem",Morningside Heights/Hamilton Heights,36061020701
+3501,E 118 St & Madison Ave,40.8014866,-73.9442507,1,September,9,2017,NA,NA,NA,423,Manhattan,3804,East Harlem,East Harlem,36061018400
+3506,Lexington Ave & E 120 St,40.8013066,-73.9398167,1,September,9,2017,NA,NA,NA,423,Manhattan,3804,East Harlem,East Harlem,36061019600
+3493,E 118 St & 3 Ave,40.799139,-73.9389152,1,September,9,2017,NA,NA,NA,423,Manhattan,3804,East Harlem,East Harlem,36061018800
+3503,Madison Ave & E 120 St,40.80295,-73.942954,1,September,9,2017,NA,NA,NA,423,Manhattan,3804,East Harlem,East Harlem,36061019800
+3535,Mt Morris Park W & W 120 St,40.804038,-73.945925,1,September,9,2017,NA,NA,NA,423,Manhattan,3804,East Harlem,East Harlem,36061019800
+3492,E 118 St & Park Ave,40.8005385,-73.9419949,1,September,9,2017,NA,NA,NA,423,Manhattan,3804,East Harlem,East Harlem,36061018200
+3540,Morningside Ave & W 123 St,40.81,-73.9551508,1,September,9,2017,NA,NA,NA,423,Manhattan,3802,"Hamilton Heights, Manhattanville & West Harlem",Morningside Heights/Hamilton Heights,36061019701
+3508,St Nicholas Ave & Manhattan Ave,40.809725,-73.953149,1,September,9,2017,NA,NA,NA,423,Manhattan,3803,Central Harlem,Central Harlem,36061025700
+3545,Broadway & W 122 St,40.8120562,-73.9612547,1,September,9,2017,NA,NA,NA,423,Manhattan,3802,"Hamilton Heights, Manhattanville & West Harlem",Morningside Heights/Hamilton Heights,36061021100
+3510,Adam Clayton Powell Blvd & W 123 St,40.8078316,-73.949373,1,September,9,2017,NA,NA,NA,423,Manhattan,3803,Central Harlem,Central Harlem,36061022200
+3518,Lenox Ave & W 126 St,40.808442,-73.9452087,1,September,9,2017,NA,NA,NA,423,Manhattan,3803,Central Harlem,Central Harlem,36061022200
+3504,E 123 St & Lexington Ave,40.8029263,-73.9379,1,September,9,2017,NA,NA,NA,423,Manhattan,3804,East Harlem,East Harlem,36061019600
+3499,2 Ave & E 122 St,40.8006721,-73.9349,1,September,9,2017,NA,NA,NA,423,Manhattan,3804,East Harlem,East Harlem,36061019400
+3529,Lenox Ave & W 130 St,40.8107922,-73.9430681,1,September,9,2017,NA,NA,NA,423,Manhattan,3803,Central Harlem,Central Harlem,36061020800
+3547,Broadway & Moylan Pl,40.8143256,-73.9590255,1,September,9,2017,NA,NA,NA,423,Manhattan,3802,"Hamilton Heights, Manhattanville & West Harlem",Morningside Heights/Hamilton Heights,36061021100
+3533,St. Nicholas Ave & W 126 St,40.8114323,-73.9518776,1,September,9,2017,NA,NA,NA,423,Manhattan,3803,Central Harlem,Central Harlem,36061021500
+3531,Frederick Douglass Blvd & W 129 St,40.8125511,-73.9492286,1,September,9,2017,NA,NA,NA,423,Manhattan,3803,Central Harlem,Central Harlem,36061022400
+3635,W 36 St & 9 Ave,40.7546232,-73.9951676,0,September,9,2017,August,8,2018,362,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061011100
+3561,37 Ave & 35 St,40.7531106,-73.9279917,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081005500
+3538,W 110 St & Amsterdam Ave,40.802692,-73.96295,1,September,9,2017,NA,NA,NA,423,Manhattan,3802,"Hamilton Heights, Manhattanville & West Harlem",Morningside Heights/Hamilton Heights,36061019701
+3554,Vernon Blvd & 41 Rd,40.7552433,-73.9485678,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081002500
+3564,21 St & 36 Ave,40.7601853,-73.9362726,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081004700
+3560,28 St & 38 Ave,40.754876,-73.934326,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081003100
+3563,28 St & 36 Ave,40.757186,-73.932719,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081003300
+3556,24 St & 41 Ave,40.7527085,-73.9397405,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081003300
+3565,36 Ave & 10 St,40.7614376,-73.9411265,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081003900
+3567,11 St & 35 Ave,40.7627442,-73.9391141,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081008500
+3568,34 St & 35 Ave,40.7569332,-73.9262231,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081005700
+3573,35 St & 34 Ave,40.7580583,-73.9242751,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081005700
+3572,34 Ave & 38 St,40.756913,-73.921631,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081015700
+3566,Crescent St & 35 Ave,40.7596276,-73.9321455,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081004700
+3570,35 Ave & 37 St,40.7557327,-73.9236611,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081005700
+3588,Vernon Blvd & 10 St,40.7671863,-73.9373554,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081004500
+3541,Amsterdam Ave & W 125 St,40.813358,-73.956461,1,September,9,2017,NA,NA,NA,423,Manhattan,3802,"Hamilton Heights, Manhattanville & West Harlem",Morningside Heights/Hamilton Heights,36061021100
+3577,34 Ave & 21 St,40.762813800000004,-73.9342862,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081004300
+3586,34 Ave & 13 St,40.7638753,-73.9364848,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081004300
+3507,Park Ave & E 124 St,40.8045555,-73.9396861,1,September,9,2017,NA,NA,NA,423,Manhattan,3804,East Harlem,East Harlem,36061019800
+3593,31 St & Broadway,40.761584,-73.925921,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081005900
+3589,Broadway & 12 St,40.7668,-73.9347774,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081004500
+3637,Fulton St & Waverly Ave,40.6832387,-73.9659959,1,September,9,2017,NA,NA,NA,423,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047019900
+3591,21 St & 31 Dr,40.7659,-73.930819,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081007700
+3592,Crescent St & Broadway,40.7633589,-73.9286471,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081005300
+3609,Vernon Blvd & 31 Ave,40.7692475,-73.9354504,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081008100
+3610,Vernon Blvd & 30 Rd,40.770845,-73.934171,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081008100
+3603,31 Ave & 30 St,40.7647,-73.9240312,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081006300
+3602,31 Ave & 34 St,40.763154,-73.920827,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081006300
+3605,31 Ave & Crescent St,40.7658346,-73.9265474,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081007300
+3598,Newton Rd & 44 St,40.7595701,-73.9142678,1,September,9,2017,NA,NA,NA,423,Queens,4101,Astoria & Long Island City,Astoria,36081015300
+3636,Expansion Warehouse 333 Johnson Ave,40.7077315,-73.9345229,0,October,10,2017,November,11,2017,59,Brooklyn,4002,Bushwick,Bushwick,36047048500
+3612,30 Ave & 21 St,40.7703743,-73.9286078,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081008300
+3597,43 St & Broadway,40.7577284,-73.9166368,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081015900
+3614,Crescent St & 30 Ave,40.768692,-73.9249574,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081007100
+3616,Steinway St & 28 Ave,40.7656251,-73.9136695,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081014300
+3595,35 St & Broadway,40.760339,-73.9222427,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081005900
+3621,27 Ave & 9 St,40.7739825,-73.9309134,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081009100
+3607,31 Ave & 14 St,40.7682,-73.9322662,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081007700
+3514,Astoria Park S & Shore Blvd,40.7767,-73.927631,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081009100
+3513,21 St & Hoyt Ave S,40.774645,-73.923706,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081009500
+3619,Newtown Ave & 23 St,40.7713615,-73.9246145,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081006900
+3521,Lenox Ave & W 111 St,40.7987859,-73.9523,1,October,10,2017,NA,NA,NA,393,Manhattan,3803,Central Harlem,Central Harlem,36061021600
+3516,31 St & Astoria Blvd,40.7699176,-73.9184057,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081007100
+3522,37 St & 24 Ave,40.7701477,-73.9120938,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081011700
+3524,19 St & 24 Ave,40.7774552,-73.9225403,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081009700
+3512,27 Ave & 4 St,40.7747175,-73.9337894,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081008700
+3525,23 Ave & 27 St,40.776165,-73.9153175,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081010100
+3528,Steinway St & 23 Ave,40.7713937,-73.9077436,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081011900
+3641,Broadway & W 25 St,40.7428688,-73.9891863,1,October,10,2017,NA,NA,NA,393,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061005800
+3523,24 Ave & 29 St,40.7729,-73.916142,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081011500
+3557,40 Ave & 9 St,40.75742,-73.945133,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081008500
+3526,31 St & 23 Ave,40.7747878,-73.9125551,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081011500
+3530,Crescent St & Ditmars Blvd,40.7787185,-73.9145645,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081010100
+3532,Ditmars Blvd & 19 St,40.78145,-73.9183302,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081010300
+3642,E 98 St & Lexington Ave,40.7872852,-73.9501226,0,October,10,2017,March,3,2018,179,Manhattan,3804,East Harlem,East Harlem,36061016600
+3527,5 Ave & E 126 St,40.80698,-73.941747,1,October,10,2017,NA,NA,NA,393,Manhattan,3804,East Harlem,East Harlem,36061019800
+3546,Pacific St & Classon Ave,40.6791944,-73.9587903,1,October,10,2017,NA,NA,NA,393,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047030500
+3537,Carlton Ave & Dean St,40.6809741,-73.9710097,1,October,10,2017,NA,NA,NA,393,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047016300
+3548,Pacific St & Bedford Ave,40.6777747,-73.9529322,0,October,10,2017,December,12,2017,89,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047022100
+3544,Underhill Ave & Pacific St,40.6804836,-73.9646795,1,October,10,2017,NA,NA,NA,393,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047020300
+3558,Bergen St & Vanderbilt Ave,40.6794388,-73.9680438,1,October,10,2017,NA,NA,NA,393,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047020300
+3562,Classon Ave & St Marks Ave,40.6765198,-73.9596082,1,October,10,2017,NA,NA,NA,393,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047030500
+3576,Park Pl & Vanderbilt Ave,40.6767,-73.969024,1,October,10,2017,NA,NA,NA,393,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047020700
+3579,Sterling Pl & Bedford Ave,40.672695,-73.954131,1,October,10,2017,NA,NA,NA,393,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047021900
+3549,Grand Ave & Bergen St,40.678045,-73.962408,1,October,10,2017,NA,NA,NA,393,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047020500
+3555,28 St & 41 Ave,40.751047,-73.937970000000007,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081003300
+3515,24 Ave & 26 St,40.774591,-73.918544,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081009700
+3581,Underhill Ave & Lincoln Pl,40.6740123,-73.9671457,1,October,10,2017,NA,NA,NA,393,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047020700
+3580,St Johns Pl & Washington Ave,40.6737236,-73.9631611,1,October,10,2017,NA,NA,NA,393,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047020700
+3574,Prospect Pl & Underhill Ave,40.6769694,-73.96579,1,October,10,2017,NA,NA,NA,393,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047020500
+3617,28 Ave & 35 St,40.7671,-73.9169858,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081006501
+3582,Lincoln Pl & Classon Ave,40.6721683,-73.9609,1,October,10,2017,NA,NA,NA,393,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047021700
+3569,Franklin Ave & St Marks Ave,40.6758324,-73.9561677,1,October,10,2017,NA,NA,NA,393,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047030500
+3584,Eastern Pkwy & Franklin Ave,40.6707767,-73.9576801,1,October,10,2017,NA,NA,NA,393,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047021900
+3590,Carroll St & Franklin Ave,40.6679411,-73.9588,1,October,10,2017,NA,NA,NA,393,Brooklyn,4011,"Crown Heights South, Prospect Lefferts & Wingate",South Crown Heights,36047032500
+3594,Montgomery St & Franklin Ave OLD,40.6661649,-73.9593484,0,October,10,2017,January,1,2018,120,Brooklyn,4011,"Crown Heights South, Prospect Lefferts & Wingate",South Crown Heights,36047032500
+3599,Franklin Ave & Empire Blvd,40.66314,-73.9605695,1,October,10,2017,NA,NA,NA,393,Brooklyn,4011,"Crown Heights South, Prospect Lefferts & Wingate",South Crown Heights,36047032700
+3644,Van Dyke St & Van Brunt St,40.6758162,-74.0148818,0,October,10,2017,May,5,2018,240,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047005300
+3596,Sullivan Pl & Bedford Ave,40.6642406,-73.9574686,1,October,10,2017,NA,NA,NA,393,Brooklyn,4011,"Crown Heights South, Prospect Lefferts & Wingate",South Crown Heights,36047032700
+3517,31 St & Hoyt Ave N,40.7711528,-73.9170074,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081012500
+3643,E 41 St & 5 Ave,40.752722,-73.9812362,0,October,10,2017,April,4,2018,210,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061008200
+3601,Sterling St & Bedford Ave,40.6627059,-73.9569115,1,October,10,2017,NA,NA,NA,393,Brooklyn,4011,"Crown Heights South, Prospect Lefferts & Wingate",South Crown Heights,36047032700
+3613,Center Blvd & 48 Ave,40.745038,-73.957539,1,October,10,2017,NA,NA,NA,393,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081000100
+3559,21 St & 38 Ave,40.7576314,-73.9391224,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081004300
+3578,Park Pl & Franklin Ave,40.6741806,-73.9564947,1,October,10,2017,NA,NA,NA,393,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047022100
+3585,Union St & Bedford Ave,40.6691783,-73.9554162,1,October,10,2017,NA,NA,NA,393,Brooklyn,4011,"Crown Heights South, Prospect Lefferts & Wingate",South Crown Heights,36047032300
+3520,Adam Clayton Powell Blvd & W 118 St,40.804372,-73.951475,1,October,10,2017,NA,NA,NA,393,Manhattan,3803,Central Harlem,Central Harlem,36061021800
+3618,27 St & Hunter St,40.7485,-73.941275,1,October,10,2017,NA,NA,NA,393,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081001900
+3615,44 Dr & 21 St,40.748,-73.9460927,1,October,10,2017,NA,NA,NA,393,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081001900
+3606,49 Ave & 21 St,40.74252,-73.948852,1,October,10,2017,NA,NA,NA,393,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081001900
+3583,Eastern Pkwy & Washington Ave,40.6716493,-73.9631145,1,October,10,2017,NA,NA,NA,393,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047021500
+3620,11 St & 43 Ave,40.7519071,-73.9479119,1,October,10,2017,NA,NA,NA,393,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081001900
+3539,W 116 St & Amsterdam Ave,40.8067581,-73.9607082,1,October,10,2017,NA,NA,NA,393,Manhattan,3802,"Hamilton Heights, Manhattanville & West Harlem",Morningside Heights/Hamilton Heights,36061020101
+3534,Frederick Douglass Blvd & W 117 St,40.805159,-73.954692,1,October,10,2017,NA,NA,NA,393,Manhattan,3803,Central Harlem,Central Harlem,36061021800
+3498,Pleasant Ave & E 120 St,40.7974772,-73.9311847,1,October,10,2017,NA,NA,NA,393,Manhattan,3804,East Harlem,East Harlem,36061019200
+3604,Rogers Ave & Sterling St,40.6630619,-73.9538746,1,October,10,2017,NA,NA,NA,393,Brooklyn,4011,"Crown Heights South, Prospect Lefferts & Wingate",South Crown Heights,36047032700
+3622,E 128 St & Madison Ave,40.80756,-73.939182,1,October,10,2017,NA,NA,NA,393,Manhattan,3803,Central Harlem,Central Harlem,36061020600
+3625,28 St & 40 Ave,40.7525758,-73.9364281,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081003300
+3491,E 118 St & 1 Ave,40.79747,-73.93504,1,October,10,2017,NA,NA,NA,393,Manhattan,3804,East Harlem,East Harlem,36061018800
+3587,Carroll St & Washington Ave,40.6686744,-73.9618148,1,October,10,2017,NA,NA,NA,393,Brooklyn,4011,"Crown Heights South, Prospect Lefferts & Wingate",South Crown Heights,36047021300
+3623,W 120 St & Claremont Ave,40.8109494,-73.9634,1,October,10,2017,NA,NA,NA,393,Manhattan,3802,"Hamilton Heights, Manhattanville & West Harlem",Morningside Heights/Hamilton Heights,36061020500
+3647,48 Ave & 30 Pl,40.7412831,-73.9372587,1,October,10,2017,NA,NA,NA,393,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081019900
+3646,35 Ave & 10 St,40.7631548,-73.9398551,1,October,10,2017,NA,NA,NA,393,Queens,4101,Astoria & Long Island City,Astoria,36081003900
+3611,Vernon Blvd & 47 Rd,40.7449067,-73.9534573,1,October,10,2017,NA,NA,NA,393,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081000700
+3575,Crescent St & 34 Ave,40.76108,-73.930562,1,November,11,2017,NA,NA,NA,362,Queens,4101,Astoria & Long Island City,Astoria,36081004700
+3571,Bedford Ave & Bergen St,40.676368,-73.952918,1,November,11,2017,NA,NA,NA,362,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047022100
+3648,Flushing Ave & Vanderbilt Ave,40.6979503,-73.9707756,1,November,11,2017,NA,NA,NA,362,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047054300
+3550,Convent Ave & W 129 St,40.81413,-73.953005,0,November,11,2017,November,11,2017,28,Manhattan,3802,"Hamilton Heights, Manhattanville & West Harlem",Morningside Heights/Hamilton Heights,36061021303
+3505,Lexington Ave & E 127 St,40.805726,-73.936322,1,November,11,2017,NA,NA,NA,362,Manhattan,3804,East Harlem,East Harlem,36061024200
+3649,W 129 St & Convent Ave,40.8143944,-73.9532474,1,November,11,2017,NA,NA,NA,362,Manhattan,3802,"Hamilton Heights, Manhattanville & West Harlem",Morningside Heights/Hamilton Heights,36061021303
+3654,31 St & Northern Blvd,40.7518695,-73.9334929,1,December,12,2017,NA,NA,NA,332,Queens,4101,Astoria & Long Island City,Astoria,36081003100
+3653,31 St & 35 Ave,40.7582046,-73.9283216,1,December,12,2017,NA,NA,NA,332,Queens,4101,Astoria & Long Island City,Astoria,36081005700
+3631,Crown St & Bedford Ave,40.666563,-73.956741,1,December,12,2017,NA,NA,NA,332,Brooklyn,4011,"Crown Heights South, Prospect Lefferts & Wingate",South Crown Heights,36047032500
+3543,Morningside Dr & Amsterdam Ave,40.8102851,-73.9573646,1,December,12,2017,NA,NA,NA,332,Manhattan,3802,"Hamilton Heights, Manhattanville & West Harlem",Morningside Heights/Hamilton Heights,36061019701
+3629,Adam Clayton Powell Blvd & W 126 St,40.8094953,-73.9477649,1,January,1,2018,NA,NA,NA,301,Manhattan,3803,Central Harlem,Central Harlem,36061022200
+3656,E 2 St & Avenue A,40.7230775,-73.9858362,1,January,1,2018,NA,NA,NA,301,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061003002
+3658,W 18 St & 9 Ave,40.7435337,-74.0036756,1,January,1,2018,NA,NA,NA,301,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061008900
+3659,W 17 St & 9 Ave,40.7429489,-74.0041369,1,January,1,2018,NA,NA,NA,301,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061008300
+3660,W 16 St & 8 Ave,40.7410215,-74.001385,1,January,1,2018,NA,NA,NA,301,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061008100
+3661,Montgomery St & Franklin Ave,40.6664393,-73.9605564,1,January,1,2018,NA,NA,NA,301,Brooklyn,4011,"Crown Heights South, Prospect Lefferts & Wingate",South Crown Heights,36047021300
+3662,31 Ave & Steinway St,40.7612939,-73.9169168,1,January,1,2018,NA,NA,NA,301,Queens,4101,Astoria & Long Island City,Astoria,36081014900
+3663,Sterling Pl & 7 Ave,40.6771649,-73.973828,1,January,1,2018,NA,NA,NA,301,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047016100
+3664,North Moore St & Greenwich St,40.7201952,-74.0103006,1,January,1,2018,NA,NA,NA,301,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061003900
+3487,Prototype Lab Motivate Headquarters,40.6565957,-74.0084928,0,February,2,2018,March,3,2018,56,Brooklyn,4012,Sunset Park & Windsor Terrace,Sunset Park,36047000200
+3608,5 St & 51 Ave,40.7423737,-73.9566,1,February,2,2018,NA,NA,NA,270,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081000700
+3299,E 98 St & Park Ave,40.78813,-73.95206,1,March,3,2018,NA,NA,NA,242,Manhattan,3804,East Harlem,East Harlem,36061016800
+3668,Leonard St & Nassau Ave,40.7239568,-73.9498436,1,March,3,2018,NA,NA,NA,242,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047057100
+3669,Henry St & W 9 St,40.6763036,-74.0031405,1,March,3,2018,NA,NA,NA,242,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047005900
+3671,E 81 St & 2 Ave,40.7747794,-73.9542747,1,March,3,2018,NA,NA,NA,242,Manhattan,3805,Upper East Side,Upper East Side,36061013800
+3672,Apache,40.6697671,-73.9947438,0,March,3,2018,March,3,2018,28,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047011700
+3674,Jay St & York St,40.7014032,-73.9867267,1,March,3,2018,NA,NA,NA,242,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047002100
+3628,Lenox Ave & W 117 St,40.8025566,-73.9490782,1,April,4,2018,NA,NA,NA,211,Manhattan,3803,Central Harlem,Central Harlem,36061019e3
+3673,Dean St & Franklin Ave,40.6775921,-73.9556372,1,April,4,2018,NA,NA,NA,211,Brooklyn,4006,Crown Heights North & Prospect Heights,North Crown Heights/Prospect Heights,36047030500
+3680,E 43 St & 5 Ave,40.7541208,-73.9802518,1,April,4,2018,NA,NA,NA,211,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061009400
+3666,32 St & 30 Ave,40.7664255,-73.920629,1,May,5,2018,NA,NA,NA,181,Queens,4101,Astoria & Long Island City,Astoria,36081006300
+3675,3 Ave & E 95 St,40.7845968,-73.9496854,1,May,5,2018,NA,NA,NA,181,Manhattan,3805,Upper East Side,Upper East Side,36061015601
+3676,Van Brunt St & Van Dyke St,40.6758329,-74.0147263,1,May,5,2018,NA,NA,NA,181,Brooklyn,4005,"Park Slope, Carroll Gardens & Red Hook",Park Slope/Carroll Gardens,36047005300
+3683,Smart Cities Conference,40.7101547,-73.9845353,0,May,5,2018,July,7,2018,89,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061000202
+3684,W 12 St & W 4 St,40.7375612,-74.0039827,1,May,5,2018,NA,NA,NA,181,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061007700
+3686,Gansevoort St & Hudson St,40.7394482,-74.0050703,1,May,5,2018,NA,NA,NA,181,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061007700
+3687,E 33 St & 1 Ave,40.7432268,-73.9744978,1,June,6,2018,NA,NA,NA,150,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061007e3
+3688,2 Ave & E 55 St,40.7579202,-73.9663821,1,June,6,2018,NA,NA,NA,150,Manhattan,3808,"Murray Hill, Gramercy & Stuyvesant Town",Stuyvesant Town/Turtle Bay,36061010800
+3689,W 104 St & Amsterdam Ave,40.7990414,-73.9664948,1,June,6,2018,NA,NA,NA,150,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061018900
+3691,28 Ave & 44 St,40.7640893,-73.9106512,1,June,6,2018,NA,NA,NA,150,Queens,4101,Astoria & Long Island City,Astoria,36081014300
+3692,5 St & Market St,40.6999975,-73.9744013,1,June,6,2018,NA,NA,NA,150,Brooklyn,4004,Brooklyn Heights & Fort Greene,Brooklyn Heights/Fort Greene,36047054300
+3690,Park Pl & Church St,40.7133418,-74.0093552,1,July,7,2018,NA,NA,NA,120,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061002100
+3693,N 11 St & Kent Ave,40.7224819,-73.9592193,1,July,7,2018,NA,NA,NA,120,Brooklyn,4001,Greenpoint & Williamsburg,Williamsburg/Greenpoint,36047055700
+3695,E 5 St & 2 Ave,40.7268695,-73.9891903,0,July,7,2018,September,9,2018,90,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061003800
+3697,W 64 St & Thelonious Monk Circle,40.7751595,-73.989187,1,July,7,2018,NA,NA,NA,120,Manhattan,3806,Upper West Side & West Side,Upper West Side,36061015100
+3699,W 50 St & 9 Ave,40.7636047,-73.9891796,1,August,8,2018,NA,NA,NA,89,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061013300
+3700,E 87 St & 3 Ave,40.7794061,-73.9533359,0,August,8,2018,September,9,2018,59,Manhattan,3805,Upper East Side,Upper East Side,36061014602
+3701,Cliff St & Fulton St,40.7083179,-74.0050408,1,August,8,2018,NA,NA,NA,89,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061001502
+3705,Thompson St & Bleecker St,40.7284006,-73.9996878,1,August,8,2018,NA,NA,NA,89,Manhattan,3810,"Battery Park City, Greenwich Village & Soho",Greenwich Village/Financial District,36061006500
+3704,47 Ave & Skillman Ave,40.7437524,-73.9417648,1,August,8,2018,NA,NA,NA,89,Queens,4109,Sunnyside & Woodside,Sunnyside/Woodside,36081000100
+3630,Frederick Douglass Blvd & W 115 St,40.8038654,-73.9559308,1,September,9,2018,NA,NA,NA,58,Manhattan,3803,Central Harlem,Central Harlem,36061020102
+3709,W 15 St & 6 Ave,40.7380461,-73.9964296,1,October,10,2018,NA,NA,NA,28,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061008100
+3711,E 13 St & Avenue A,40.7296673,-73.9806797,1,October,10,2018,NA,NA,NA,28,Manhattan,3809,Chinatown & Lower East Side,Lower East Side/Chinatown,36061003400
+3712,W 35 St & Dyer Ave,40.7546918,-73.9974019,1,October,10,2018,NA,NA,NA,28,Manhattan,3807,"Chelsea, Clinton & Midtown Business District",Chelsea/Clinton/Midtown,36061011100
